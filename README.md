@@ -6,7 +6,7 @@
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG"/></a>
 </div>
 
-[Constructing](https://www.notion.so/GraphRAG-Survey-15999cbc17d2809e9bffd7ec26ba1458)
+Constructing: https://www.notion.so/GraphRAG-Survey-15999cbc17d2809e9bffd7ec26ba1458
 
 This repository contains a curated list of resources on **graph-based retrieval-augmented generation (GraphRAG)**, which are classified according to our survey "[A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models]()".
 
