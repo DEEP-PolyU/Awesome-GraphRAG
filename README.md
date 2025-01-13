@@ -11,8 +11,10 @@ Constructing: https://www.notion.so/GraphRAG-Survey-15999cbc17d2809e9bffd7ec26ba
 This repository contains a curated list of resources on **graph-based retrieval-augmented generation (GraphRAG)**, which are classified according to our survey "[A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models]()".
 
 *Continuously updating!*
-<h1 align="center">
-   <p align="center"><img width="90%" src="main_fig.png" /></p>
+<h3 align="center">
+   <p align="center"><img width="100%" src="main_fig.png" /></p>
+    <p align="center"><em>The taxonomy example of our survey organization.</em></p>
+
 
 
 ## Table of Content
@@ -45,6 +47,8 @@ This repository contains a curated list of resources on **graph-based retrieval-
 
 # Research Papers
 ## Knowledge Organization
+ <p align="center"><img width="100%" src="organization.png" /></p>
+ 
 ### Graphs for Knowledge Indexing
 - (ArXiv 2024) **Graph Neural Network Enhanced Retrieval for Question Answering of LLMs** [[Paper]](https://arxiv.org/abs/2406.06572)
 - (ArXiv 2024) **Empowering Large Language Models to Set up a Knowledge Retrieval Indexer via Self-Learning** [[Paper]](https://arxiv.org/abs/2405.16933)
@@ -79,6 +83,9 @@ This repository contains a curated list of resources on **graph-based retrieval-
 - (Arxiv 2024) **Medical graph rag: Towards safe medical large language model via graph retrieval-augmented generation** [[Paper]](https://arxiv.org/abs/2408.04187)
 - (Arxiv 2024) **Codexgraph: Bridging large language models and code repositories via code graph databases** [[Paper]](https://arxiv.org/abs/2408.03910)
 ## Knowledge Retrieval
+<h3 align="center">
+ <p align="center"><img width="100%" src="retrieval.png" /></p>
+ <p align="center"><em>Illustration of the overall pipeline of knowledge retrieval.</em></p>
 
 ### Semantics Similarity-based Retriever
 
