@@ -11,6 +11,9 @@ Constructing: https://www.notion.so/GraphRAG-Survey-15999cbc17d2809e9bffd7ec26ba
 This repository contains a curated list of resources on **graph-based retrieval-augmented generation (GraphRAG)**, which are classified according to our survey "[A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models]()".
 
 *Continuously updating!*
+<h1 align="center">
+   <p align="center"><img width="90%" src="main_fig.png" /></p>
+
 
 ## Table of Content
 - [Research Papers](#research-papers)
