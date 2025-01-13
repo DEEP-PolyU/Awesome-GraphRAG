@@ -114,11 +114,20 @@ This repository contains a curated list of resources on **graph-based retrieval-
 ### Knowledge Integration
 #### Fine-Tuning
 ##### Fine-Tuning with Node-Level Knowledge
-
+- (Arxiv 2025) Large Language Models based Graph Convolution for Text-Attributed Networks? [[Paper]](https://openreview.net/forum?id=x5FfUvsLIE)
+- (SIGIR 2024) Graphgpt: Graph instruction tuning for large language models[[Paper]](https://dl.acm.org/doi/10.1145/3626772.3657775)
 ##### Fine-Tuning with Path-Level Knowledge
-
+- (AAAI 2024) Exploring large language model for graph data understanding in online job recommendations[[Paper]](https://dl.acm.org/doi/10.1609/aaai.v38i8.28769)
+- (WWW 2023) Structure pretraining and prompt tuning for knowledge graph transfer[[Paper]](https://dl.acm.org/doi/10.1145/3543507.3583301)
+- (Arxiv 2024) MuseGraph: Graph-oriented Instruction Tuning of Large Language Models for Generic Graph Mining[[Paper]](https://arxiv.org/pdf/2403.04780)
+- (ICLR 2023) Reasoning on graphs: Faithful and interpretable large language model reasoning[[Paper]](https://openreview.net/forum?id=ZGNWW7xZ6Q)
 ##### Fine-Tuning with Subgraph-Level Knowledge
-
+- (ICML 2024) Llaga: Large language and graph assistant[[Paper]](https://openreview.net/pdf?id=B48Pzc4oKi)
+- (KDD 2024) Graphwiz: An instruction-following language model for graph problems[[Paper]](https://graph-wiz.github.io/)
+- (AAAI 2024) Graph neural prompting with large language models[[Paper]](https://dl.acm.org/doi/10.1609/aaai.v38i17.29875)
+- (ACL 2024) Rho:Reducing hallucination in open-domain dialogues with knowledge
+grounding[[Paper]](https://aclanthology.org/2023.findings-acl.275/)
+- (EACL 2024) language is all a graph needs[[Paper]](https://aclanthology.org/2024.findings-eacl.132.pdf)
 #### In-Context Learning
 ##### Graph-Enhanced Chain-of-Thought
 
