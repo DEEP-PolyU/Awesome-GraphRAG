@@ -10,9 +10,18 @@ This repository contains a curated list of resources on graph-based retrieval-au
 
 *Continuously updating!*
 <h3 align="center">
-   <p align="center"><img width="100%" src="main_fig.png" /></p>
+       <p align="center"><img width="90%" src="main_fig.png" /></p>
     <p align="center"><em>The taxonomy example of our survey organization.</em></p>
 
+
+# RAG vs. GraphRAG
+GraphRAG is a new paradigm of RAG that revolutionizes domain-specific LLM applications, by addressing traditional RAG limitations through three key innovations: (i) graph-structured knowledge representation that explicitly captures
+entity relationships and domain hierarchies, (ii) graph-aware retrieval mechanisms that enable multi-hop reasoning and context-preserving knowledge acquisition, and (iii) structure-guided
+knowledge search algorithms that ensure efficient retrieval across large-scale corpora.
+    
+<h3 align="center">
+   <p align="center"><img width="100%" src="rag_vs_graphrag.png" /></p>
+    <p align="center"><em>The illustration of the comparison between traditional RAG and GraphRAG.</em></p>
 
 
 ## Table of Content
@@ -40,14 +49,12 @@ This repository contains a curated list of resources on graph-based retrieval-au
             - [Graph-Enhanced Chain-of-Thought](#graph-enhanced-chain-of-thought)
             - [Collaborative Knowledge Graph Refinement](#collaborative-knowledge-graph-refinement)
 - [Related Survey Papers](#related-survey-papers)
-- [Open-Source Projects](#open-source-projects)
 - [Benchmarks](#benchmarks)
 - [Citation](#citation)
 
 
 # Research Papers
 ## Knowledge Organization
- <p align="center"><img width="100%" src="organization.png" /></p>
  
 ### Graphs for Knowledge Indexing
 - (ArXiv 2024) **Graph Neural Network Enhanced Retrieval for Question Answering of LLMs** [[Paper]](https://arxiv.org/abs/2406.06572)
