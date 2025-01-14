@@ -154,12 +154,8 @@ grounding** [[Paper]](https://aclanthology.org/2023.findings-acl.275/)
 #### Collaborative Knowledge Graph Refinement
 
 # Related Survey Papers
-- (Arxiv 2025) **A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models** [[Paper]]() 
 - (Arxiv 2024) **Graph Retrieval-Augmented Generation: A Survey** [[Paper]](https://arxiv.org/pdf/2408.08921)
-
 - (AIxSET 2024) **Graph Retrieval-Augmented Generation for Large Language Models: A Survey** [[Paper]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4895062)
-
-# Open-Source Projects
 
 # Benchmarks
 | Dataset | Task | Paper | Repo |
