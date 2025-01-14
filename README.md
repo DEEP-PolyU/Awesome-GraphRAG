@@ -150,8 +150,27 @@ grounding** [[Paper]](https://aclanthology.org/2023.findings-acl.275/)
 - (EACL 2024) **language is all a graph needs** [[Paper]](https://aclanthology.org/2024.findings-eacl.132.pdf)
 ### In-Context Learning
 #### Graph-Enhanced Chain-of-Thought
+- (ICLR 2024) **Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning** [[Paper]](https://openreview.net/forum?id=ZGNWW7xZ6Q)
+- (ICLR 2024) **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph** [[Paper]](https://openreview.net/forum?id=nnVO1PvbTv)
+- (Arxiv 2024) **Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation** [[Paper]](https://arxiv.org/abs/2407.10805)
+- (Arxiv 2024) **Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs** [[paper]](https://arxiv.org/abs/2404.07103)
+- (ICLR 2024) **Chain-of-Knowledge: Grounding Large Language Models via Dynamic Knowledge Adapting over Heterogeneous Sources** [[paper]](https://openreview.net/forum?id=cPgh4gWZlz)
+- (ACL 2023) **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought
+Reasoning by Large Language Models** [[Paper]](https://aclanthology.org/2023.acl-long.147.pdf)
+- (AAAI 2024) **When Do Program-of-Thought Works for Reasoning?** [[Paper]](https://dl.acm.org/doi/10.1609/aaai.v38i16.29721)
+- (EMNLP 2020) **KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases** [[Paper]](https://arxiv.org/abs/2308.11761)
+- (KBS 2025) **Different paths to the same destination: Diversifying LLMs generation for multi-hop open-domain question answering** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705124014230)
+- (ICLR 2022) **An Explanation of In-context Learning as Implicit Bayesian Inference** [[Paper]](https://openreview.net/forum?id=RdJVFCHjUMI)
+- (ACL Finding 2024) **Visual In-Context Learning for Large Vision-Language Models** [[Paper]](https://www.semanticscholar.org/paper/Visual-In-Context-Learning-for-Large-Models-Zhou-Li/b00d1028291ae64e9d7485a34ec5f1b7b5a37909)
+- (NeurIPS 2023) **What makes good examples for visual in-context learning?** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/398ae57ed4fda79d0781c65c926d667b-Abstract-Conference.html)
 
 #### Collaborative Knowledge Graph Refinement
+- (AAAI 2024) **Mitigating large language model hallucinations via autonomous knowledge graph-based retrofitting** [[Paper]](https://arxiv.org/abs/2311.13314)
+- (ACL Finding 2024)**Knowledge Graph-Enhanced Large Language Models via Path Selection** [[Paper]](https://aclanthology.org/2024.findings-acl.376/)
+- (Arxiv 2024) **Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph** [[Paper]](https://arxiv.org/abs/2406.01145)
+- (ACL 2024) **CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph** [[Paper]](https://aclanthology.org/2024.acl-demos.35/)
+
+
 
 # Related Survey Papers
 - (Arxiv 2024) **Graph Retrieval-Augmented Generation: A Survey** [[Paper]](https://arxiv.org/pdf/2408.08921)
