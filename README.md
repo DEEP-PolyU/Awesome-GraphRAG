@@ -164,6 +164,21 @@ grounding** [[Paper]](https://aclanthology.org/2023.findings-acl.275/)
 # Open-Source Projects
 
 # Benchmarks
+| Dataset | Task | Paper | Repo |
+| --- | --- | --- | --- |
+| SimpleQuestion | Simple Question Answering | [[Arxiv]](https://arxiv.org/abs/1506.02075) | [[Github]](https://github.com/Jerryzhao-z/simple-question-answering-with-memory-networks) |
+| WebQ | Simple Question Answering | [[EMNLP 2013]](https://nlp.stanford.edu/pubs/semparseEMNLP13.pdf) | [[CodaLab]](https://worksheets.codalab.org/worksheets/0xba659fe363cb46e7a505c5b6a774dc8a) |
+| CWQ | Multi-hop Reasoning | [[NAACL 2018]](https://aclanthology.org/N18-1059/) | [[TAU-NLP]](https://www.tau-nlp.org/compwebq) |
+| MetaQA | Multi-hop Reasoning | [[AAAI 2018]](https://arxiv.org/abs/1709.04071) | [[Github]](https://github.com/yuyuz/MetaQA) |
+| MetaQA-3 | Multi-hop Reasoning | [[AAAI 2018]](https://arxiv.org/abs/1709.04071) | [[Github]](https://github.com/yuyuz/MetaQA) |
+| LC-QuAD | Large-Scale Complex QA | [[ISWC 2017]](https://dl.acm.org/doi/10.1007/978-3-319-68204-4_22) | [[Github]](https://github.com/AskNowQA/LC-QuAD) |
+| LC-QuAD v2 | Large-Scale Complex QA | [[ISWC 2019]](https://link.springer.com/chapter/10.1007/978-3-030-30796-7_5) | [[figshare]](https://figshare.com/projects/LCQuAD_2_0/62270) |
+| KQAPro | Large-Scale Complex QA | [[ACL 2022]](https://aclanthology.org/2022.acl-long.422/) | [[Github]](https://github.com/shijx12/KQAPro_Baselines) |
+| Mintaka | Domain-specific QA | [[ACL 2022]](https://aclanthology.org/2022.coling-1.138/) | [[Github]](https://github.com/amazon-science/mintaka) |
+| FACTKG  | Domain-specific QA | [[ACL 2023]](https://aclanthology.org/2023.acl-long.895.pdf) | [[Github]](https://github.com/jiho283/FactKG) |
+| WebQSP | Domain-specific QA | [[ACL 2016]](https://aclanthology.org/P16-2033.pdf) | [[microsoft]](http://aka.ms/WebQSP) |
+| GrailQA | Domain-specific QA | [[WWW 2021]](https://dl.acm.org/doi/10.1145/3442381.3449992) | [[Github]](https://github.com/dki-lab/GrailQA) |
+
 
 
 # Citation
