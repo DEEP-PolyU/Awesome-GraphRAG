@@ -6,14 +6,14 @@
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG"/></a>
 </div>
 
-This repository contains a curated list of resources on graph-based retrieval-augmented generation (GraphRAG), which are classified according to the survey "**A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models**".
+This repository contains a curated list of resources on graph-based retrieval-augmented generation (GraphRAG), which are classified according to the survey "**A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models**". Coming soon!
 
-*Continuously updating!*
+
 <h3 align="center">
        <p align="center"><img width="90%" src="figs/main_fig.png" /></p>
     <p align="center"><em>The taxonomy example of our survey organization.</em></p>
 
-
+---
 
 # RAG vs. GraphRAG
 GraphRAG is a new paradigm of RAG that revolutionizes domain-specific LLM applications, by addressing traditional RAG limitations through three key innovations: (i) graph-structured knowledge representation that explicitly captures
@@ -54,6 +54,7 @@ knowledge search algorithms that ensure efficient retrieval across large-scale c
 - [Related Survey Papers](#related-survey-papers)
 - [Benchmarks](#benchmarks)
 - [Citation](#citation)
+
 
 
 # Research Papers
