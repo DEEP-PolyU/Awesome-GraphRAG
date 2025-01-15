@@ -10,8 +10,9 @@ This repository contains a curated list of resources on graph-based retrieval-au
 
 *Continuously updating!*
 <h3 align="center">
-       <p align="center"><img width="90%" src="main_fig.png" /></p>
+       <p align="center"><img width="90%" src="figs/main_fig.png" /></p>
     <p align="center"><em>The taxonomy example of our survey organization.</em></p>
+
 
 
 # RAG vs. GraphRAG
@@ -19,9 +20,11 @@ GraphRAG is a new paradigm of RAG that revolutionizes domain-specific LLM applic
 entity relationships and domain hierarchies, (ii) graph-aware retrieval mechanisms that enable multi-hop reasoning and context-preserving knowledge acquisition, and (iii) structure-guided
 knowledge search algorithms that ensure efficient retrieval across large-scale corpora.
     
+
 <h3 align="center">
-   <p align="center"><img width="100%" src="rag_vs_graphrag.png" /></p>
+   <p align="center"><img width="100%" src="figs/rag_vs_graphrag.png" /></p>
     <p align="center"><em>The illustration of the comparison between traditional RAG and GraphRAG.</em></p>
+
 
 
 ## Table of Content
@@ -55,7 +58,7 @@ knowledge search algorithms that ensure efficient retrieval across large-scale c
 
 # Research Papers
 ## Knowledge Organization
- 
+
 ### Graphs for Knowledge Indexing
 - (ArXiv 2024) **Graph Neural Network Enhanced Retrieval for Question Answering of LLMs** [[Paper]](https://arxiv.org/abs/2406.06572)
 - (ArXiv 2024) **Empowering Large Language Models to Set up a Knowledge Retrieval Indexer via Self-Learning** [[Paper]](https://arxiv.org/abs/2405.16933)
@@ -91,8 +94,9 @@ knowledge search algorithms that ensure efficient retrieval across large-scale c
 - (Arxiv 2024) **Codexgraph: Bridging large language models and code repositories via code graph databases** [[Paper]](https://arxiv.org/abs/2408.03910)
 ## Knowledge Retrieval
 <h3 align="center">
- <p align="center"><img width="100%" src="retrieval.png" /></p>
+ <p align="center"><img width="100%" src="figs/retrieval.png" /></p>
  <p align="center"><em>Illustration of the overall pipeline of knowledge retrieval.</em></p>
+
 
 ### Semantics Similarity-based Retriever
 - (AAAI 2024) **StructuGraphRAG: Structured Document-Informed Knowledge Graphs for
