@@ -180,7 +180,7 @@ grounding** [[Paper]](https://aclanthology.org/2023.findings-acl.275/)
 Reasoning by Large Language Models** [[Paper]](https://aclanthology.org/2023.acl-long.147.pdf)
 - (AAAI 2024) **When Do Program-of-Thought Works for Reasoning?** [[Paper]](https://dl.acm.org/doi/10.1609/aaai.v38i16.29721)
 - (ICLR 2022) **An Explanation of In-context Learning as Implicit Bayesian Inference** [[Paper]](https://openreview.net/forum?id=RdJVFCHjUMI)
-- (EMNLP 2020) **KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases** [[Paper]](https://arxiv.org/abs/2308.11761)
+- (EMNLP 2023) **KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases** [[Paper]](https://arxiv.org/abs/2308.11761)
 
 #### Collaborative Knowledge Graph Refinement
 - (AAAI 2024) **Mitigating large language model hallucinations via autonomous knowledge graph-based retrofitting** [[Paper]](https://arxiv.org/abs/2311.13314)
