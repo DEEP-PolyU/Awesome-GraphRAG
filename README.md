@@ -107,10 +107,6 @@ knowledge search algorithms that ensure efficient retrieval across large-scale c
 - (arXiv 2024) **Codexgraph: Bridging large language models and code repositories via code graph databases** [[Paper]](https://arxiv.org/abs/2408.03910)
 
 ## Knowledge Retrieval
-<h3 align="center">
- <p align="center"><img width="100%" src="figs/retrieval.png" /></p>
- <p align="center"><em>Illustration of the overall pipeline of knowledge retrieval.</em></p>
-
 
 ### Semantics Similarity-based Retriever
 - (AAAI 2024) **StructuGraphRAG: Structured Document-Informed Knowledge Graphs for
