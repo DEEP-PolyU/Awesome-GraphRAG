@@ -8,10 +8,19 @@
 
 This repository contains a curated list of resources on graph-based retrieval-augmented generation (GraphRAG), which are classified according to the survey "**A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models**". Coming soon!
 
+<div>
+<h3 align="left">
+       <p align="center"><img width="100%" src="figs/main_fig.png" /></p>
+    <p align="center"><em>A comprehensive overview of traditional RAG and two typical GraphRAG workflows. </em></p>
+</div>
 
-<h3 align="center">
-       <p align="center"><img width="90%" src="figs/main_fig.png" /></p>
-    <p align="center"><em>The taxonomy example of our survey organization.</em></p>
+- **Non-graph RAG** organizes the
+corpus into chunks, ranks them by similarity, and retrieves the most relevant text for generating responses.
+- **Knowledge-based
+GraphRAG** extracts detailed knowledge graphs from the corpus using entity recognition and relation extraction, offering
+fine-grained, domain-specific information.
+- **Index-based GraphRAG** summarizes the corpus into high-level topic nodes, which
+are linked to form an index graph, while facts linking maps topics to text.
 
 ---
 
