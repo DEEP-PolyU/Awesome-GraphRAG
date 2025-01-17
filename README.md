@@ -20,7 +20,7 @@ corpus into chunks, ranks them by similarity, and retrieves the most relevant te
 GraphRAG** extracts detailed knowledge graphs from the corpus using entity recognition and relation extraction, offering
 fine-grained, domain-specific information.
 - **Index-based GraphRAG** summarizes the corpus into high-level topic nodes, which
-are linked to form an index graph, while facts linking maps topics to text.
+are linked to form an index graph, while the fact linking maps topics to text.
 
 ---
 
@@ -37,6 +37,7 @@ knowledge search algorithms that ensure efficient retrieval across large-scale c
 
 
 ## Table of Content
+- [Trend of GraphRAG research](#trend-of-graphrag-research)
 - [Research Papers](#research-papers)
     - [Knowledge Organization](#knowledge-organization)
         - [Graph for Knowledge Indexing](#graphs-for-knowledge-indexing)
@@ -65,6 +66,11 @@ knowledge search algorithms that ensure efficient retrieval across large-scale c
 - [Citation](#citation)
 
 
+# Trend of graphRAG research
+
+<h3 align="center">
+   <p align="center"><img width="100%" src="figs/trend.png" /></p>
+    <p align="center"><em>The development trends in the field of GraphRAG with representative works.</em></p>
 
 # Research Papers
 ## Knowledge Organization
