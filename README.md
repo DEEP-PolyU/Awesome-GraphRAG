@@ -37,13 +37,13 @@ knowledge search algorithms that ensure efficient retrieval across large-scale c
 
 
 ## Table of Content
-- [Trend of GraphRAG research](#trend-of-graphrag-research)
+- [Trend of GraphRAG Research](#trend-of-graphrag-research)
 - [Research Papers](#research-papers)
     - [Knowledge Organization](#knowledge-organization)
         - [Graph for Knowledge Indexing](#graphs-for-knowledge-indexing)
         - [Graph as Knowledge Carrier](#graphs-as-knowledge-carrier)
             - [Knowledge Graph Construction from Corpus](#knowledge-graph-construction-from-corpus)
-            - [GraphRAG with existing KGs](#graphrag-with-existing-kgs)
+            - [GraphRAG with Existing KGs](#graphrag-with-existing-kgs)
         - [Hybrid GraphRAG](#hybrid-graphrag)
     - [Knowledge Retrieval](#knowledge-retrieval)
         - [Semantics Similarity-based Retriever](#semantics-similarity-based-retriever)
@@ -51,22 +51,22 @@ knowledge search algorithms that ensure efficient retrieval across large-scale c
         - [LLM-based Retriever](#llm-based-retriever)
         - [GNN-based Retriever](#gnn-based-retriever)
         - [Multi-round Retriever](#multi-round-retriever)
-        - [Post-Retrieval](#post-retrieval)
+        - [Post-retrieval](#post-retrieval)
         - [Hybrid Retriever](#hybrid-retriever)
     - [Knowledge Integration](#knowledge-integration)
-        - [Fine-Tuning](#fine-tuning)
-            - [Fine-Tuning with Node-Level Knowledge](#fine-tuning-with-node-level-knowledge)
-            - [Fine-Tuning with Path-Level Knowledge](#fine-tuning-with-path-level-knowledge)
-            - [Fine-Tuning with Subgraph-Level Knowledge](#fine-tuning-with-subgraph-level-knowledge)
-        - [In-Context Learning](#in-context-learning)
-            - [Graph-Enhanced Chain-of-Thought](#graph-enhanced-chain-of-thought)
+        - [Fine-tuning](#fine-tuning)
+            - [Fine-tuning with Node-level Knowledge](#fine-tuning-with-node-level-knowledge)
+            - [Fine-tuning with Path-level Knowledge](#fine-tuning-with-path-level-knowledge)
+            - [Fine-tuning with Subgraph-level Knowledge](#fine-tuning-with-subgraph-level-knowledge)
+        - [In-context Learning](#in-context-learning)
+            - [Graph-enhanced Chain-of-Thought](#graph-enhanced-chain-of-thought)
             - [Collaborative Knowledge Graph Refinement](#collaborative-knowledge-graph-refinement)
 - [Related Survey Papers](#related-survey-papers)
 - [Benchmarks](#benchmarks)
 - [Citation](#citation)
 
 
-# Trend of graphRAG research
+# Trend of GraphRAG Research
 
 <h3 align="center">
    <p align="center"><img width="100%" src="figs/trend.png" /></p>
@@ -95,7 +95,7 @@ knowledge search algorithms that ensure efficient retrieval across large-scale c
 - (ACL 2019) **Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs** [[Paper]](https://aclanthology.org/D19-1428.pdf)
 - (SIGIR 2019) **Answering complex questions by joining multi-document evidence with quasi knowledge graphs** [[Paper]](https://dl.acm.org/doi/10.1145/3331184.3331252)
 
-#### GraphRAG with existing KGs
+#### GraphRAG with Existing KGs
 - (arXiv 2024)**StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via Inference-time Hybrid Information Structurization** [[Paper]](https://arXiv.org/abs/2410.08815)
 - (ICLR 2024) **Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning** [[Paper]](https://openreview.net/forum?id=ZGNWW7xZ6Q)
 - (AAAI 2024) **Mitigating large language model hallucinations via autonomous knowledge graph-based retrofitting** [[Paper]](https://dl.acm.org/doi/10.1609/aaai.v38i16.29770)
@@ -150,7 +150,7 @@ Retrieval-Augmented Generation** [paper]
 - (arXiv 2024) **Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs** [[paper]](https://arXiv.org/abs/2404.07103)
 - (arXiv 2024) **Generative Subgraph Retrieval for Knowledge Graph-Grounded Dialog Generation** [[paper]](https://arXiv.org/abs/2410.09350)
 - (arXiv 2024) **Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs** [[Paper]](https://arXiv.org/abs/2410.11001)
-### Post-Retrieval 
+### Post-retrieval 
 - (ACL 2024) **Boosting Language Models Reasoning with Chain-of-Knowledge Prompting** [[paper]](https://arXiv.org/abs/2306.06427)
 - (arXiv 2024) **Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-based Retrofitting** [[paper]](https://arXiv.org/abs/2311.13314)
 
@@ -159,17 +159,17 @@ Retrieval-Augmented Generation** [paper]
 - (arXiv 2024) **StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via Inference-time Hybrid Information Structurization** [[paper]](https://arXiv.org/abs/2410.08815)
 
 ## Knowledge Integration
-### Fine-Tuning
-#### Fine-Tuning with Node-Level Knowledge
+### Fine-tuning
+#### Fine-tuning with Node-level Knowledge
 - (arXiv 2025) **Large Language Models based Graph Convolution for Text-Attributed Networks?** [[Paper]](https://openreview.net/forum?id=x5FfUvsLIE)
 - (SIGIR 2024) **Graphgpt: Graph instruction tuning for large language models** [[Paper]](https://dl.acm.org/doi/10.1145/3626772.3657775)
-#### Fine-Tuning with Path-Level Knowledge
+#### Fine-tuning with Path-level Knowledge
 - (AAAI 2024) **Exploring large language model for graph data understanding in online job recommendations** [[Paper]](https://dl.acm.org/doi/10.1609/aaai.v38i8.28769)
 - (arXiv 2024) **MuseGraph: Graph-oriented Instruction Tuning of Large Language Models for Generic Graph Mining** [[Paper]](https://arXiv.org/pdf/2403.04780)
 - (WWW 2023) **Structure pretraining and prompt tuning for knowledge graph transfer** [[Paper]](https://dl.acm.org/doi/10.1145/3543507.3583301)
 - (ICLR 2023) **Reasoning on graphs: Faithful and interpretable large language model reasonin**g [[Paper]](https://openreview.net/forum?id=ZGNWW7xZ6Q)
 
-#### Fine-Tuning with Subgraph-Level Knowledge
+#### Fine-tuning with Subgraph-level Knowledge
 - (ICML 2024) **Llaga: Large language and graph assistant** [[Paper]](https://openreview.net/pdf?id=B48Pzc4oKi)
 - (KDD 2024) **Graphwiz: An instruction-following language model for graph problems** [[Paper]](https://graph-wiz.github.io/)
 - (AAAI 2024) **Graph neural prompting with large language models** [[Paper]](https://dl.acm.org/doi/10.1609/aaai.v38i17.29875)
@@ -177,8 +177,8 @@ Retrieval-Augmented Generation** [paper]
 grounding** [[Paper]](https://aclanthology.org/2023.findings-acl.275/)
 - (EACL 2024) **language is all a graph needs** [[Paper]](https://aclanthology.org/2024.findings-eacl.132.pdf)
 
-### In-Context Learning
-#### Graph-Enhanced Chain-of-Thought
+### In-context Learning
+#### Graph-enhanced Chain-of-Thought
 - (KBS 2025) **Different paths to the same destination: Diversifying LLMs generation for multi-hop open-domain question answering** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0950705124014230)
 - (ICLR 2024) **Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning** [[Paper]](https://openreview.net/forum?id=ZGNWW7xZ6Q)
 - (ICLR 2024) **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph** [[Paper]](https://openreview.net/forum?id=nnVO1PvbTv)
