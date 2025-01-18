@@ -4,6 +4,7 @@
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-green.svg"/></a>
     <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG"/></a>
+    <a href="http://makeapullrequest.com"><img src="https://img.shields.io/github/forks/DEEP-PolyU/Awesome-GraphRAG"/></a>
 </div>
 
 This repository contains a curated list of resources on graph-based retrieval-augmented generation (GraphRAG), which are classified according to the survey "**A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models**". Coming soon!
