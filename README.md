@@ -232,6 +232,6 @@ Reasoning by Large Language Models** [[Paper]](https://aclanthology.org/2023.acl
 
 ```
 
-# Star Trend
+# Star History
 
-![Star Trend](https://api.star-history.com/svg?repos=DEEP-PolyU/Awesome-GraphRAG&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=DEEP-PolyU/Awesome-GraphRAG&type=Date)
