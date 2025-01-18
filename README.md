@@ -214,10 +214,10 @@ Reasoning by Large Language Models** [[Paper]](https://aclanthology.org/2023.acl
 | CWQ | Multi-hop Reasoning | [[NAACL 2018]](https://aclanthology.org/N18-1059/) | [[TAU-NLP]](https://www.tau-nlp.org/compwebq) |
 | MetaQA | Multi-hop Reasoning | [[AAAI 2018]](https://arXiv.org/abs/1709.04071) | [[Github]](https://github.com/yuyuz/MetaQA) |
 | MetaQA-3 | Multi-hop Reasoning | [[AAAI 2018]](https://arXiv.org/abs/1709.04071) | [[Github]](https://github.com/yuyuz/MetaQA) |
-| LC-QuAD | Large-Scale Complex QA | [[ISWC 2017]](https://dl.acm.org/doi/10.1007/978-3-319-68204-4_22) | [[Github]](https://github.com/AskNowQA/LC-QuAD) |
-| LC-QuAD v2 | Large-Scale Complex QA | [[ISWC 2019]](https://link.springer.com/chapter/10.1007/978-3-030-30796-7_5) | [[figshare]](https://figshare.com/projects/LCQuAD_2_0/62270) |
-| KQAPro | Large-Scale Complex QA | [[ACL 2022]](https://aclanthology.org/2022.acl-long.422/) | [[Github]](https://github.com/shijx12/KQAPro_Baselines) |
-| CURD |  Large-Scale Complex QA | [[arXiv 2024]](https://arXiv.org/abs/2401.17043) | [[Github]](https://github.com/IAAR-Shanghai/CRUD_RAG) | 
+| LC-QuAD | Large-scale Complex QA | [[ISWC 2017]](https://dl.acm.org/doi/10.1007/978-3-319-68204-4_22) | [[Github]](https://github.com/AskNowQA/LC-QuAD) |
+| LC-QuAD v2 | Large-scale Complex QA | [[ISWC 2019]](https://link.springer.com/chapter/10.1007/978-3-030-30796-7_5) | [[figshare]](https://figshare.com/projects/LCQuAD_2_0/62270) |
+| KQAPro | Large-scale Complex QA | [[ACL 2022]](https://aclanthology.org/2022.acl-long.422/) | [[Github]](https://github.com/shijx12/KQAPro_Baselines) |
+| CURD |  Large-scale Complex QA | [[arXiv 2024]](https://arXiv.org/abs/2401.17043) | [[Github]](https://github.com/IAAR-Shanghai/CRUD_RAG) | 
 | Mintaka | Domain-specific QA | [[ACL 2022]](https://aclanthology.org/2022.coling-1.138/) | [[Github]](https://github.com/amazon-science/mintaka) |
 | FACTKG  | Domain-specific QA | [[ACL 2023]](https://aclanthology.org/2023.acl-long.895.pdf) | [[Github]](https://github.com/jiho283/FactKG) |
 | WebQSP | Domain-specific QA | [[ACL 2016]](https://aclanthology.org/P16-2033.pdf) | [[microsoft]](http://aka.ms/WebQSP) |
