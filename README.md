@@ -67,6 +67,7 @@ knowledge search algorithms that ensure efficient retrieval across large-scale c
 - [Related Survey Papers](#related-survey-papers)
 - [Benchmarks](#benchmarks)
 - [Citation](#citation)
+- [Star History](#star-history)
 
 
 # Trend of GraphRAG Research
