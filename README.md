@@ -215,6 +215,7 @@ Reasoning by Large Language Models** [[Paper]](https://aclanthology.org/2023.acl
 | --- | --- | --- | --- |
 | SimpleQuestion | Simple Question Answering | [[arXiv 2015]](https://arXiv.org/abs/1506.02075) | [[Github]](https://github.com/Jerryzhao-z/simple-question-answering-with-memory-networks) |
 | WebQ | Simple Question Answering | [[EMNLP 2013]](https://nlp.stanford.edu/pubs/semparseEMNLP13.pdf) | [[CodaLab]](https://worksheets.codalab.org/worksheets/0xba659fe363cb46e7a505c5b6a774dc8a) |
+|Multihop-RAG | Multi-hop Reasoning | [[COLING 2024]](https://arxiv.org/pdf/2401.15391) |    [[Github]](https://github.com/yixuantt/MultiHop-RAG/) |
 | CWQ | Multi-hop Reasoning | [[NAACL 2018]](https://aclanthology.org/N18-1059/) | [[TAU-NLP]](https://www.tau-nlp.org/compwebq) |
 | MetaQA | Multi-hop Reasoning | [[AAAI 2018]](https://arXiv.org/abs/1709.04071) | [[Github]](https://github.com/yuyuz/MetaQA) |
 | MetaQA-3 | Multi-hop Reasoning | [[AAAI 2018]](https://arXiv.org/abs/1709.04071) | [[Github]](https://github.com/yuyuz/MetaQA) |
