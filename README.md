@@ -94,7 +94,7 @@ knowledge search algorithms that ensure efficient retrieval across large-scale c
 #### Knowledge Graph Construction from Corpus
 - (EMNLP 2024 )**Structure Guided Prompt: Instructing Large Language Model in Multi-Step Reasoning by Exploring Graph Structure of the Text** [[Paper]](https://aclanthology.org/2024.emnlp-main.528.pdf)
 - (arXiv 2024) **From local to global: A graph rag approach to query-focused summarization** [[Paper]](https://arXiv.org/abs/2404.16130)
-- (EMNLP Finding 2024) **GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models** [[Paper]](https://aclanthology.org/2024.findings-emnlp.746/)
+- (EMNLP 2024 Findings) **GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models** [[Paper]](https://aclanthology.org/2024.findings-emnlp.746/)
 - (SIGIR 2024) **Retrieval-augmented generation with knowledge graphs for customer service question answering** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3626772.3661370)
 - (BigData 2023) **AutoKG: Efficient automated knowledge graph generation for language models** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10386454)
 - (ACL 2019) **Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs** [[Paper]](https://aclanthology.org/D19-1428.pdf)
@@ -107,7 +107,7 @@ knowledge search algorithms that ensure efficient retrieval across large-scale c
 - (ICLR 2024) **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph** [[Paper]](https://openreview.net/forum?id=nnVO1PvbTv)
 - (Bioinformatics 2024) **Biomedical knowledge graph-enhanced prompt generation for large language models** [[Paper]](https://academic.oup.com/bioinformatics/article/40/9/btae560/7759620)
 - (NeurIPS 2024) **KnowGPT: Knowledge Graph based PrompTing for Large Language Models** [[Paper]](https://openreview.net/forum?id=PacBluO5m7&referrer=%5Bthe%20profile%20of%20Daochen%20Zha%5D(%2Fprofile%3Fid%3D~Daochen_Zha1))
-- (ACL Finding 2024)**Knowledge Graph-Enhanced Large Language Models via Path Selection** [[Paper]](https://aclanthology.org/2024.findings-acl.376/)
+- (ACL 2024 Findings) **Knowledge Graph-Enhanced Large Language Models via Path Selection** [[Paper]](https://aclanthology.org/2024.findings-acl.376/)
 - (arXiv 2024) **Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation** [[Paper]](https://arXiv.org/abs/2410.20724)
 - (CoLM 2024) **ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction** [[Paper]](https://openreview.net/forum?id=2nTzomzjjb#discussion)
 - (arXiv 2024) **Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation** [[Paper]](https://arXiv.org/abs/2407.10805)
@@ -130,7 +130,7 @@ Retrieval-Augmented Generation** [paper]
 
 ### Logical Reasoning-based Retriever
 - (NeurIPS 2024) **KnowGPT: Knowledge Graph based PrompTing for Large Language Models** [[Paper]](https://openreview.net/forum?id=PacBluO5m7&referrer=%5Bthe%20profile%20of%20Daochen%20Zha%5D(%2Fprofile%3Fid%3D~Daochen_Zha1))
-- (ACL Finding 2024) **Knowledge Graph-Enhanced Large Language Models via Path Selection** [[Paper]](https://aclanthology.org/2024.findings-acl.376/)
+- (ACL 2024 Findings) **Knowledge Graph-Enhanced Large Language Models via Path Selection** [[Paper]](https://aclanthology.org/2024.findings-acl.376/)
 - (ICLR 2024) **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph** [[Paper]](https://openreview.net/forum?id=nnVO1PvbTv)
 - (CIKM 2024) **RD-P: A Trustworthy Retrieval-Augmented Prompter with Knowledge Graphs for LLMs** [[paper]](https://dl.acm.org/doi/10.1145/3627673.3679659)
 - (arXiv 2024) **RuleRAG: Rule-Guided Retrieval-Augmented Generation with Language Models for Question Answering [[paper]](https://arXiv.org/abs/2410.22353)**
@@ -178,9 +178,9 @@ Retrieval-Augmented Generation** [paper]
 - (ICML 2024) **Llaga: Large language and graph assistant** [[Paper]](https://openreview.net/pdf?id=B48Pzc4oKi)
 - (KDD 2024) **Graphwiz: An instruction-following language model for graph problems** [[Paper]](https://graph-wiz.github.io/)
 - (AAAI 2024) **Graph neural prompting with large language models** [[Paper]](https://dl.acm.org/doi/10.1609/aaai.v38i17.29875)
-- (ACL 2024) **Rho:Reducing hallucination in open-domain dialogues with knowledge
+- (ACL 2024 Findings) **Rho:Reducing hallucination in open-domain dialogues with knowledge
 grounding** [[Paper]](https://aclanthology.org/2023.findings-acl.275/)
-- (EACL 2024) **language is all a graph needs** [[Paper]](https://aclanthology.org/2024.findings-eacl.132.pdf)
+- (EACL 2024 Findings) **Language is All a Graph Needs** [[Paper]](https://aclanthology.org/2024.findings-eacl.132.pdf)
 
 ### In-context Learning
 #### Graph-enhanced Chain-of-Thought
@@ -200,7 +200,7 @@ Reasoning by Large Language Models** [[Paper]](https://aclanthology.org/2023.acl
 
 #### Collaborative Knowledge Graph Refinement
 - (AAAI 2024) **Mitigating large language model hallucinations via autonomous knowledge graph-based retrofitting** [[Paper]](https://arXiv.org/abs/2311.13314)
-- (ACL Finding 2024)**Knowledge Graph-Enhanced Large Language Models via Path Selection** [[Paper]](https://aclanthology.org/2024.findings-acl.376/)
+- (ACL 2024 Findings) **Knowledge Graph-Enhanced Large Language Models via Path Selection** [[Paper]](https://aclanthology.org/2024.findings-acl.376/)
 - (arXiv 2024) **Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph** [[Paper]](https://arXiv.org/abs/2406.01145)
 - (ACL 2024) **CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph** [[Paper]](https://aclanthology.org/2024.acl-demos.35/)
 
