@@ -9,7 +9,7 @@
 </div>
 
 
-This repository contains a curated list of resources on graph-based retrieval-augmented generation (GraphRAG), which are classified according to the survey "**A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models**". Coming soon!
+This repository contains a curated list of resources on graph-based retrieval-augmented generation (GraphRAG), which are classified according to the survey [**A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models**](https://arxiv.org/abs/2501.13958). 
 
 <div>
 <h3 align="left">
@@ -235,7 +235,14 @@ Reasoning by Large Language Models** [[Paper]](https://aclanthology.org/2023.acl
 
 # Citation
 ```
-
+@misc{zhang2025surveygraphretrievalaugmentedgeneration,
+      title={A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models}, 
+      author={Qinggang Zhang and Shengyuan Chen and Yuanchen Bei and Zheng Yuan and Huachi Zhou and Zijin Hong and Junnan Dong and Hao Chen and Yi Chang and Xiao Huang},
+      year={2025},
+      eprint={2501.13958},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+}
 ```
 
 # Star History
