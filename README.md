@@ -234,6 +234,7 @@ Reasoning by Large Language Models** [[Paper]](https://aclanthology.org/2023.acl
 
 
 # Citation
+If you find this survey helpful, please cite our paper:
 ```
 @misc{zhang2025surveygraphretrievalaugmentedgeneration,
       title={A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models}, 
