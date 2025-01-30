@@ -38,8 +38,12 @@ knowledge search algorithms that ensure efficient retrieval across large-scale c
     <p align="center"><em>The illustration of the comparison between traditional RAG and GraphRAG.</em></p>
 
 
+# Contact Us
+We welcome researchers to share related work or provide insightful comments on this survey. Your contributions are invaluable in enhancing the comprehensiveness of this survey and advancing the generative AI community. Feel free to reach out to the first authors (equal contribution): [Qinggang Zhang](https://qing145.github.io/), [Shengyuan Chen](https://shengyuanchen.notion.site/), [Yuanchen Bei](https://yuanchenbei.github.io/).
+
 
 ## Table of Content
+- [Contact Us](#contact-us)
 - [Trend of GraphRAG Research](#trend-of-graphrag-research)
 - [Research Papers](#research-papers)
     - [Knowledge Organization](#knowledge-organization)
@@ -219,16 +223,17 @@ Reasoning by Large Language Models** [[Paper]](https://aclanthology.org/2023.acl
 | CWQ | Multi-hop Reasoning | [[NAACL 2018]](https://aclanthology.org/N18-1059/) | [[TAU-NLP]](https://www.tau-nlp.org/compwebq) |
 | MetaQA | Multi-hop Reasoning | [[AAAI 2018]](https://arXiv.org/abs/1709.04071) | [[Github]](https://github.com/yuyuz/MetaQA) |
 | MetaQA-3 | Multi-hop Reasoning | [[AAAI 2018]](https://arXiv.org/abs/1709.04071) | [[Github]](https://github.com/yuyuz/MetaQA) |
-| LC-QuAD | Large-scale Complex QA | [[ISWC 2017]](https://dl.acm.org/doi/10.1007/978-3-319-68204-4_22) | [[Github]](https://github.com/AskNowQA/LC-QuAD) |
-| LC-QuAD v2 | Large-scale Complex QA | [[ISWC 2019]](https://link.springer.com/chapter/10.1007/978-3-030-30796-7_5) | [[figshare]](https://figshare.com/projects/LCQuAD_2_0/62270) |
-| KQAPro | Large-scale Complex QA | [[ACL 2022]](https://aclanthology.org/2022.acl-long.422/) | [[Github]](https://github.com/shijx12/KQAPro_Baselines) |
 | CURD |  Large-scale Complex QA | [[arXiv 2024]](https://arXiv.org/abs/2401.17043) | [[Github]](https://github.com/IAAR-Shanghai/CRUD_RAG) |
-| Mintaka | Domain-specific QA | [[ACL 2022]](https://aclanthology.org/2022.coling-1.138/) | [[Github]](https://github.com/amazon-science/mintaka) |
-| FACTKG  | Domain-specific QA | [[ACL 2023]](https://aclanthology.org/2023.acl-long.895.pdf) | [[Github]](https://github.com/jiho283/FactKG) |
-| WebQSP | Domain-specific QA | [[ACL 2016]](https://aclanthology.org/P16-2033.pdf) | [[Microsoft]](http://aka.ms/WebQSP) |
-| GrailQA | Domain-specific QA | [[WWW 2021]](https://dl.acm.org/doi/10.1145/3442381.3449992) | [[Github]](https://github.com/dki-lab/GrailQA) |
+| KQAPro | Large-scale Complex QA | [[ACL 2022]](https://aclanthology.org/2022.acl-long.422/) | [[Github]](https://github.com/shijx12/KQAPro_Baselines) |
+| LC-QuAD v2 | Large-scale Complex QA | [[ISWC 2019]](https://link.springer.com/chapter/10.1007/978-3-030-30796-7_5) | [[figshare]](https://figshare.com/projects/LCQuAD_2_0/62270) |
+| LC-QuAD | Large-scale Complex QA | [[ISWC 2017]](https://dl.acm.org/doi/10.1007/978-3-319-68204-4_22) | [[Github]](https://github.com/AskNowQA/LC-QuAD) |
 | UltraDomain | Domain-specific QA | [[arXiv 2024]](https://arXiv.org/abs/2409.05591) | [[Github]](https://github.com/qhjqhj00/MemoRAG#dataset) |
 | TutorQA | Domain-specific QA | [[arXiv 2024]](https://arXiv.org/abs/2407.10794) | [[Github]](https://github.com/IreneZihuiLi/CGPrompt) |
+| FACTKG  | Domain-specific QA | [[ACL 2023]](https://aclanthology.org/2023.acl-long.895.pdf) | [[Github]](https://github.com/jiho283/FactKG) |
+| Mintaka | Domain-specific QA | [[ACL 2022]](https://aclanthology.org/2022.coling-1.138/) | [[Github]](https://github.com/amazon-science/mintaka) |
+| GrailQA | Domain-specific QA | [[WWW 2021]](https://dl.acm.org/doi/10.1145/3442381.3449992) | [[Github]](https://github.com/dki-lab/GrailQA) |
+| WebQSP | Domain-specific QA | [[ACL 2016]](https://aclanthology.org/P16-2033.pdf) | [[Microsoft]](http://aka.ms/WebQSP) |
+
 
 
 # Citation
@@ -241,6 +246,7 @@ If you find this survey helpful, please cite our paper:
       year={2025}
 }
 ```
+
 
 # Star History
 
