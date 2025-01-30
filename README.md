@@ -231,18 +231,14 @@ Reasoning by Large Language Models** [[Paper]](https://aclanthology.org/2023.acl
 | TutorQA | Domain-specific QA | [[arXiv 2024]](https://arXiv.org/abs/2407.10794) | [[Github]](https://github.com/IreneZihuiLi/CGPrompt) |
 
 
-
-
 # Citation
 If you find this survey helpful, please cite our paper:
 ```
-@misc{zhang2025surveygraphretrievalaugmentedgeneration,
+@article{zhang2025surveygraphretrievalaugmentedgeneration,
       title={A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models}, 
-      author={Qinggang Zhang and Shengyuan Chen and Yuanchen Bei and Zheng Yuan and Huachi Zhou and Zijin Hong and Junnan Dong and Hao Chen and Yi Chang and Xiao Huang},
-      year={2025},
-      eprint={2501.13958},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
+      author={Zhang, Qinggang and Chen, Shengyuan and Bei, Yuanchen and Yuan, Zheng and Zhou, Huachi and Hong, Zijin and Dong, Junnan and Chen, Hao and Chang, Yi and Huang, Xiao},
+      journal={arXiv preprint arXiv:2501.13958},
+      year={2025}
 }
 ```
 
