@@ -39,7 +39,7 @@ knowledge search algorithms that ensure efficient retrieval across large-scale c
 
 
 # Contact Us
-We welcome researchers to share related work or provide insightful comments on this survey. Your contributions are invaluable in enhancing the comprehensiveness of this survey and advancing the generative AI community. Feel free to reach out to the first authors (equal contribution): [Qinggang Zhang](https://qing145.github.io/), [Shengyuan Chen](https://shengyuanchen.notion.site/), [Yuanchen Bei](https://yuanchenbei.github.io/).
+We welcome researchers to share related work to enrich this list or provide insightful comments on our survey. Feel free to reach out to the first authors (equal contribution): [Qinggang Zhang](https://qing145.github.io/), [Shengyuan Chen](https://shengyuanchen.notion.site/), [Yuanchen Bei](https://yuanchenbei.github.io/).
 
 
 ## Table of Content
