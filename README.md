@@ -132,6 +132,7 @@ Retrieval-Augmented Generation** [paper]
 - (arXiv 2024) **Empowering Large Language Models to Set up a Knowledge Retrieval Indexer via Self-Learning** [[Paper]](https://arXiv.org/abs/2405.16933)
 - (arXiv 2024) **GraphCoder: Enhancing Repository-Level Code Completion via Code Context Graph-based Retrieval and Language Model** [[Paper]](https://arXiv.org/abs/2406.07003)
 - (arXiv 2024) **Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation** [[paper]](https://arXiv.org/abs/2408.04187)
+- (arXiv 2024) **How to Make LLMs Strong Node Classifiers?** [[paper]](https://arxiv.org/abs/2410.02296)
 
 ### Logical Reasoning-based Retriever
 - (NeurIPS 2024) **KnowGPT: Knowledge Graph based PrompTing for Large Language Models** [[Paper]](https://openreview.net/forum?id=PacBluO5m7&referrer=%5Bthe%20profile%20of%20Daochen%20Zha%5D(%2Fprofile%3Fid%3D~Daochen_Zha1))
