@@ -85,6 +85,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 
 ### Graphs for Knowledge Indexing
 - (arXiv 2024) **Graph Neural Network Enhanced Retrieval for Question Answering of LLMs** [[Paper]](https://arXiv.org/abs/2406.06572)
+- (arXiv 2024) **GRAG: Graph Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2405.16506)
 - (arXiv 2024) **Empowering Large Language Models to Set up a Knowledge Retrieval Indexer via Self-Learning** [[Paper]](https://arXiv.org/abs/2405.16933)
 - (arXiv 2024) **OG-RAG: Ontology-Grounded Retrieval-Augmented Generation For Large Language Models** [[Paper]](https://arxiv.org/abs/2412.15235)
 - (AAAI 2024) **Knowledge graph prompting for multi-document question answering** [[Paper]](https://www.overleaf.com/project/667419080bc7191bc75f5880)
