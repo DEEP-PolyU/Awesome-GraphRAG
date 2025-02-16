@@ -68,7 +68,7 @@ We welcome researchers to share related work to enrich this list or provide insi
         - [In-context Learning](#in-context-learning)
             - [Graph-enhanced Chain-of-Thought](#graph-enhanced-chain-of-thought)
             - [Collaborative Knowledge Graph Refinement](#collaborative-knowledge-graph-refinement)
-- [📜 Related Survey Papers](#-related-survey-papers)
+- [📚 Related Survey Papers](#-related-survey-papers)
 - [🏆 Benchmarks](#-benchmarks)
 - [🍀 Citation](#-citation)
 - [⭐ Star History](#-star-history)
@@ -212,7 +212,7 @@ Reasoning by Large Language Models** [[Paper]](https://aclanthology.org/2023.acl
 
 
 
-# 📜 Related Survey Papers
+# 📚 Related Survey Papers
 - (arXiv 2024) **Graph Retrieval-Augmented Generation: A Survey** [[Paper]](https://arXiv.org/pdf/2408.08921)
 - (AIxSET 2024) **Graph Retrieval-Augmented Generation for Large Language Models: A Survey** [[Paper]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4895062)
 
