@@ -28,9 +28,9 @@ are linked to form an index graph, while the fact linking maps topics to text.
 ---
 
 # RAG vs. GraphRAG
-GraphRAG is a new paradigm of RAG that revolutionizes domain-specific LLM applications, by addressing traditional RAG limitations through three key innovations: (i) graph-structured knowledge representation that explicitly captures
-entity relationships and domain hierarchies, (ii) graph-aware retrieval mechanisms that enable multi-hop reasoning and context-preserving knowledge acquisition, and (iii) structure-guided
-knowledge search algorithms that ensure efficient retrieval across large-scale corpora.
+GraphRAG is a new paradigm of RAG that revolutionizes domain-specific LLM applications, by addressing traditional RAG limitations through three key innovations: **(i) graph-structured knowledge representation** that explicitly captures
+entity relationships and domain hierarchies, **(ii) graph-aware retrieval mechanisms** that enable multi-hop reasoning and context-preserving knowledge acquisition, and **(iii) structure-guided
+knowledge search algorithms** that ensure efficient retrieval across large-scale corpora.
     
 
 <h3 align="center">
