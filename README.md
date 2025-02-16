@@ -38,14 +38,14 @@ knowledge search algorithms that ensure efficient retrieval across large-scale c
     <p align="center"><em>The illustration of the comparison between traditional RAG and GraphRAG.</em></p>
 
 
-# Contact Us
+# 📫 Contact Us
 We welcome researchers to share related work to enrich this list or provide insightful comments on our survey. Feel free to reach out to the first authors (equal contribution): [Qinggang Zhang](https://qing145.github.io/), [Shengyuan Chen](https://shengyuanchen.notion.site/), [Yuanchen Bei](https://yuanchenbei.github.io/).
 
 
 ## Table of Content
-- [Contact Us](#contact-us)
-- [Trend of GraphRAG Research](#trend-of-graphrag-research)
-- [Research Papers](#research-papers)
+- [📫 Contact Us](#-contact-us)
+- [📈 Trend of GraphRAG Research](#-trend-of-graphrag-research)
+- [📜 Research Papers](#-research-papers)
     - [Knowledge Organization](#knowledge-organization)
         - [Graph for Knowledge Indexing](#graphs-for-knowledge-indexing)
         - [Graph as Knowledge Carrier](#graphs-as-knowledge-carrier)
@@ -68,19 +68,19 @@ We welcome researchers to share related work to enrich this list or provide insi
         - [In-context Learning](#in-context-learning)
             - [Graph-enhanced Chain-of-Thought](#graph-enhanced-chain-of-thought)
             - [Collaborative Knowledge Graph Refinement](#collaborative-knowledge-graph-refinement)
-- [Related Survey Papers](#related-survey-papers)
-- [Benchmarks](#benchmarks)
-- [Citation](#citation)
-- [Star History](#star-history)
+- [📜 Related Survey Papers](#-related-survey-papers)
+- [🏆 Benchmarks](#-benchmarks)
+- [🍀 Citation](#-citation)
+- [⭐ Star History](#-star-history)
 
 
-# Trend of GraphRAG Research
+# 📈 Trend of GraphRAG Research
 
 <h3 align="center">
    <p align="center"><img width="100%" src="figs/trend.png" /></p>
     <p align="center"><em>The development trends in the field of GraphRAG with representative works.</em></p>
 
-# Research Papers
+# 📜 Research Papers
 ## Knowledge Organization
 
 ### Graphs for Knowledge Indexing
@@ -212,11 +212,11 @@ Reasoning by Large Language Models** [[Paper]](https://aclanthology.org/2023.acl
 
 
 
-# Related Survey Papers
+# 📜 Related Survey Papers
 - (arXiv 2024) **Graph Retrieval-Augmented Generation: A Survey** [[Paper]](https://arXiv.org/pdf/2408.08921)
 - (AIxSET 2024) **Graph Retrieval-Augmented Generation for Large Language Models: A Survey** [[Paper]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4895062)
 
-# Benchmarks
+# 🏆 Benchmarks
 | Dataset | Task | Paper | Repo |
 | --- | --- | --- | --- |
 | SimpleQuestion | Simple Question Answering | [[arXiv 2015]](https://arXiv.org/abs/1506.02075) | [[Github]](https://github.com/Jerryzhao-z/simple-question-answering-with-memory-networks) |
@@ -238,7 +238,7 @@ Reasoning by Large Language Models** [[Paper]](https://aclanthology.org/2023.acl
 
 
 
-# Citation
+# 🍀 Citation
 If you find this survey helpful, please cite our paper:
 ```
 @article{zhang2025surveygraphretrievalaugmentedgeneration,
@@ -250,6 +250,6 @@ If you find this survey helpful, please cite our paper:
 ```
 
 
-# Star History
+# ⭐ Star History
 
 ![Star History Chart](https://api.star-history.com/svg?repos=DEEP-PolyU/Awesome-GraphRAG&type=Date)
