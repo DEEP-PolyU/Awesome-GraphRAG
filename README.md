@@ -84,10 +84,13 @@ We welcome researchers to share related work to enrich this list or provide insi
 ## Knowledge Organization
 
 ### Graphs for Knowledge Indexing
+- (arXiv 2025) **KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG** [[Paper]](https://arxiv.org/abs/2502.09304)
+- (arXiv 2025) **PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation** [[Paper]](https://arxiv.org/abs/2501.11551)
 - (arXiv 2024) **Graph Neural Network Enhanced Retrieval for Question Answering of LLMs** [[Paper]](https://arXiv.org/abs/2406.06572)
+- (arXiv 2024) **KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation** [[Paper]](https://arxiv.org/abs/2409.13731)
+- (arXiv 2024) **OG-RAG: Ontology-Grounded Retrieval-Augmented Generation For Large Language Models** [[Paper]](https://arxiv.org/abs/2412.15235)
 - (arXiv 2024) **GRAG: Graph Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2405.16506)
 - (arXiv 2024) **Empowering Large Language Models to Set up a Knowledge Retrieval Indexer via Self-Learning** [[Paper]](https://arXiv.org/abs/2405.16933)
-- (arXiv 2024) **OG-RAG: Ontology-Grounded Retrieval-Augmented Generation For Large Language Models** [[Paper]](https://arxiv.org/abs/2412.15235)
 - (AAAI 2024) **Knowledge graph prompting for multi-document question answering** [[Paper]](https://www.overleaf.com/project/667419080bc7191bc75f5880)
 - (arXiv 2024) **GraphCoder: Enhancing Repository-Level Code Completion via Code Context Graph-based Retrieval and Language Model** [[Paper]](https://arXiv.org/abs/2406.07003)
 - (NeurIPS 2023) **Avis: Autonomous visual information seeking with large language model agent** [[Paper]](https://openreview.net/forum?id=7EMphtUgCI&noteId=yGw4rbGozi)
@@ -97,10 +100,13 @@ We welcome researchers to share related work to enrich this list or provide insi
 
 ### Graphs as Knowledge Carrier
 #### Knowledge Graph Construction from Corpus
+- (arXiv 2025) **MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot** [[Paper]](https://arxiv.org/abs/2502.04413)
 - (EMNLP 2024 )**Structure Guided Prompt: Instructing Large Language Model in Multi-Step Reasoning by Exploring Graph Structure of the Text** [[Paper]](https://aclanthology.org/2024.emnlp-main.528.pdf)
 - (arXiv 2024) **From local to global: A graph rag approach to query-focused summarization** [[Paper]](https://arXiv.org/abs/2404.16130)
 - (EMNLP 2024 Findings) **GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models** [[Paper]](https://aclanthology.org/2024.findings-emnlp.746/)
 - (SIGIR 2024) **Retrieval-augmented generation with knowledge graphs for customer service question answering** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3626772.3661370)
+- (arXiv 2024) **FastRAG: Retrieval Augmented Generation for Semi-structured Data** [[Paper]](https://arxiv.org/abs/2411.13773)
+- (TechRxiv 2024) **LuminiRAG: Vision-Enhanced Graph RAG for Complex Multi-Modal Document Understanding** [[Paper]](https://www.techrxiv.org/users/867713/articles/1248304-luminirag-vision-enhanced-graph-rag-for-complex-multi-modal-document-understanding)
 - (BigData 2023) **AutoKG: Efficient automated knowledge graph generation for language models** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10386454)
 - (ACL 2019) **Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs** [[Paper]](https://aclanthology.org/D19-1428.pdf)
 - (SIGIR 2019) **Answering complex questions by joining multi-document evidence with quasi knowledge graphs** [[Paper]](https://dl.acm.org/doi/10.1145/3331184.3331252)
@@ -114,10 +120,14 @@ We welcome researchers to share related work to enrich this list or provide insi
 - (Bioinformatics 2024) **Biomedical knowledge graph-enhanced prompt generation for large language models** [[Paper]](https://academic.oup.com/bioinformatics/article/40/9/btae560/7759620)
 - (NeurIPS 2024) **KnowGPT: Knowledge Graph based PrompTing for Large Language Models** [[Paper]](https://openreview.net/forum?id=PacBluO5m7&referrer=%5Bthe%20profile%20of%20Daochen%20Zha%5D(%2Fprofile%3Fid%3D~Daochen_Zha1))
 - (ACL 2024 Findings) **Knowledge Graph-Enhanced Large Language Models via Path Selection** [[Paper]](https://aclanthology.org/2024.findings-acl.376/)
+- (IEEE VIS 2024) **KNOWNET: Guided Health Information Seeking from LLMs via Knowledge Graph Integration** [[Paper]](https://arxiv.org/abs/2407.13598)
 - (CoLM 2024) **ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction** [[Paper]](https://openreview.net/forum?id=2nTzomzjjb#discussion)
+- (arXiv 2024) **LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration** [[Paper]](https://arxiv.org/abs/2411.05844)
 - (arXiv 2024) **Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation** [[Paper]](https://arXiv.org/abs/2407.10805)
 
 ### Hybrid GraphRAG
+- (NAACL 2025) **Knowledge Graph-Guided Retrieval Augmented Generation** [[Paper]](https://arxiv.org/abs/2502.06864)
+- (ACL 2024 Findings) **HybGRAG: Hybrid Retrieval-Augmented Generation on Textual and Relational Knowledge Bases**[[Paper]](https://arxiv.org/abs/2412.16311)
 - (arXiv 2024) **Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs** [[Paper]](https://arXiv.org/abs/2410.11001)
 - (arXiv 2024) **Medical graph rag: Towards safe medical large language model via graph retrieval-augmented generation** [[Paper]](https://arXiv.org/abs/2408.04187)
 - (arXiv 2024) **Codexgraph: Bridging large language models and code repositories via code graph databases** [[Paper]](https://arXiv.org/abs/2408.03910)
@@ -125,8 +135,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 ## Knowledge Retrieval
 
 ### Semantics Similarity-based Retriever
-- (AAAI 2024) **StructuGraphRAG: Structured Document-Informed Knowledge Graphs for
-Retrieval-Augmented Generation** [paper]
+- (AAAI 2024) **StructuGraphRAG: Structured Document-Informed Knowledge Graphs for Retrieval-Augmented Generation** [paper]
 - (arXiv 2024) **G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering** [[Paper]](https://arXiv.org/abs/2402.07630)
 - (arXiv 2024) **CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care** [[paper]](https://arXiv.org/abs/2501.00223)
 - (arXiv 2024) **Empowering Large Language Models to Set up a Knowledge Retrieval Indexer via Self-Learning** [[Paper]](https://arXiv.org/abs/2405.16933)
@@ -153,9 +162,11 @@ Retrieval-Augmented Generation** [paper]
 - (arXiv 2024) **From local to global: A graph rag approach to query-focused summarization** [[Paper]](https://arXiv.org/abs/2404.16130)
 
 ### GNN-based Retriever
+- (arXiv 2024) **Advanced RAG Models with Graph Structures: Optimizing Complex Knowledge Reasoning and Text Generation** [[paper]](https://arXiv.org/abs/2411.03572)
+- (arXiv 2024) **Language Models are Graph Learners** [[paper]](https://arxiv.org/abs/2410.02296)
 - (arXiv 2024) **Graph Neural Network Enhanced Retrieval for Question Answering of LLMs** [[Paper]](https://arXiv.org/abs/2406.06572)
 - (arXiv 2024) **Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation** [[paper]](https://arXiv.org/abs/2305.18846)
-- (arXiv 2024) **Advanced RAG Models with Graph Structures: Optimizing Complex Knowledge Reasoning and Text Generation** [[paper]](https://arXiv.org/abs/2411.03572)
+
 
 ### Multi-round Retriever
 - (arXiv 2024) **Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs** [[paper]](https://arXiv.org/abs/2404.07103)
@@ -163,6 +174,8 @@ Retrieval-Augmented Generation** [paper]
 - (arXiv 2024) **Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs** [[Paper]](https://arXiv.org/abs/2410.11001)
 ### Post-retrieval 
 - (ACL 2024) **Boosting Language Models Reasoning with Chain-of-Knowledge Prompting** [[paper]](https://arXiv.org/abs/2306.06427)
+- (ACL Findings 2024) **Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments** [[paper]](https://arxiv.org/abs/2403.08593)
+- (arXiv 2024) **Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models** [[Paper]](https://arxiv.org/abs/2410.13080)
 - (arXiv 2024) **Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-based Retrofitting** [[paper]](https://arXiv.org/abs/2311.13314)
 
 ### Hybrid Retriever
@@ -198,8 +211,7 @@ grounding** [[Paper]](https://aclanthology.org/2023.findings-acl.275/)
 - (ICLR 2024) **Chain-of-Knowledge: Grounding Large Language Models via Dynamic Knowledge Adapting over Heterogeneous Sources** [[paper]](https://openreview.net/forum?id=cPgh4gWZlz)
 - (ACL Finding 2024) **Visual In-Context Learning for Large Vision-Language Models** [[Paper]](https://www.semanticscholar.org/paper/Visual-In-Context-Learning-for-Large-Models-Zhou-Li/b00d1028291ae64e9d7485a34ec5f1b7b5a37909)
 - (NeurIPS 2023) **What makes good examples for visual in-context learning?** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/398ae57ed4fda79d0781c65c926d667b-Abstract-Conference.html)
-- (ACL 2023) **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought
-Reasoning by Large Language Models** [[Paper]](https://aclanthology.org/2023.acl-long.147.pdf)
+- (ACL 2023) **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models** [[Paper]](https://aclanthology.org/2023.acl-long.147.pdf)
 - (AAAI 2024) **When Do Program-of-Thought Works for Reasoning?** [[Paper]](https://dl.acm.org/doi/10.1609/aaai.v38i16.29721)
 - (ICLR 2022) **An Explanation of In-context Learning as Implicit Bayesian Inference** [[Paper]](https://openreview.net/forum?id=RdJVFCHjUMI)
 - (EMNLP 2023) **KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases** [[Paper]](https://arXiv.org/abs/2308.11761)
@@ -207,12 +219,14 @@ Reasoning by Large Language Models** [[Paper]](https://aclanthology.org/2023.acl
 #### Collaborative Knowledge Graph Refinement
 - (AAAI 2024) **Mitigating large language model hallucinations via autonomous knowledge graph-based retrofitting** [[Paper]](https://arXiv.org/abs/2311.13314)
 - (ACL 2024 Findings) **Knowledge Graph-Enhanced Large Language Models via Path Selection** [[Paper]](https://aclanthology.org/2024.findings-acl.376/)
+- (arXiv 2024) **Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs** [[Paper]](https://arxiv.org/abs/2410.23875)
 - (arXiv 2024) **Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph** [[Paper]](https://arXiv.org/abs/2406.01145)
 - (ACL 2024) **CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph** [[Paper]](https://aclanthology.org/2024.acl-demos.35/)
 
 
 
 # 📚 Related Survey Papers
+- (arXiv 2025) **Retrieval-Augmented Generation with Graphs (GraphRAG)** [[Paper]](https://arxiv.org/abs/2501.00309)
 - (arXiv 2024) **Graph Retrieval-Augmented Generation: A Survey** [[Paper]](https://arXiv.org/pdf/2408.08921)
 - (AIxSET 2024) **Graph Retrieval-Augmented Generation for Large Language Models: A Survey** [[Paper]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4895062)
 
