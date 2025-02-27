@@ -14,7 +14,7 @@ This repository contains a curated list of resources on graph-based retrieval-au
 <div>
 <h3 align="left">
        <p align="center"><img width="100%" src="figs/main_fig.png" /></p>
-    <p align="center"><em>A comprehensive overview of traditional RAG and two typical GraphRAG workflows. </em></p>
+    <p align="center"><em>Overview of traditional RAG and two typical GraphRAG workflows. </em></p>
 </div>
 
 - **Non-graph RAG** organizes the
@@ -35,7 +35,7 @@ knowledge search algorithms** that ensure efficient retrieval across large-scale
 
 <h3 align="center">
    <p align="center"><img width="100%" src="figs/rag_vs_graphrag.png" /></p>
-    <p align="center"><em>The illustration of the comparison between traditional RAG and GraphRAG.</em></p>
+    <p align="center"><em>Comparison between traditional RAG and GraphRAG.</em></p>
 
 
 # 📫 Contact Us
