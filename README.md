@@ -256,11 +256,11 @@ grounding** [[Paper]](https://aclanthology.org/2023.findings-acl.275/)
 # 🍀 Citation
 If you find this survey helpful, please cite our paper:
 ```
-@article{zhang2025surveygraphretrievalaugmentedgeneration,
-      title={A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models}, 
-      author={Zhang, Qinggang and Chen, Shengyuan and Bei, Yuanchen and Yuan, Zheng and Zhou, Huachi and Hong, Zijin and Dong, Junnan and Chen, Hao and Chang, Yi and Huang, Xiao},
-      journal={arXiv preprint arXiv:2501.13958},
-      year={2025}
+@article{zhang2025survey,
+  title={A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models},
+  author={Zhang, Qinggang and Chen, Shengyuan and Bei, Yuanchen and Yuan, Zheng and Zhou, Huachi and Hong, Zijin and Dong, Junnan and Chen, Hao and Chang, Yi and Huang, Xiao},
+  journal={arXiv preprint arXiv:2501.13958},
+  year={2025}
 }
 ```
 
