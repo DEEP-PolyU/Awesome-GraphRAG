@@ -38,6 +38,7 @@ knowledge search algorithms** that ensure efficient retrieval across large-scale
     <p align="center"><em>Comparison between traditional RAG and GraphRAG.</em></p>
 
 
+
 # 📫 Contact Us
 We welcome researchers to share related work to enrich this list or provide insightful comments on our survey. Feel free to reach out to the corresponding co-first authors: [Qinggang Zhang](https://qing145.github.io/), [Shengyuan Chen](https://shengyuanchen.notion.site/).
 
