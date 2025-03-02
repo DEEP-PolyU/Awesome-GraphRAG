@@ -39,7 +39,7 @@ knowledge search algorithms** that ensure efficient retrieval across large-scale
 
 
 # 📫 Contact Us
-We welcome researchers to share related work to enrich this list or provide insightful comments on our survey. Feel free to reach out to the first authors (equal contribution): [Qinggang Zhang](https://qing145.github.io/), [Shengyuan Chen](https://shengyuanchen.notion.site/), [Yuanchen Bei](https://yuanchenbei.github.io/).
+We welcome researchers to share related work to enrich this list or provide insightful comments on our survey. Feel free to reach out to the co-first authors (equal contribution): [Qinggang Zhang](https://qing145.github.io/), [Shengyuan Chen](https://shengyuanchen.notion.site/).
 
 
 ## Table of Content
