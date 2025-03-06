@@ -103,10 +103,12 @@ We welcome researchers to share related work to enrich this list or provide insi
 ### Graphs as Knowledge Carrier
 #### Knowledge Graph Construction from Corpus
 - (arXiv 2025) **MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot** [[Paper]](https://arxiv.org/abs/2502.04413)
-- (EMNLP 2024 )**Structure Guided Prompt: Instructing Large Language Model in Multi-Step Reasoning by Exploring Graph Structure of the Text** [[Paper]](https://aclanthology.org/2024.emnlp-main.528.pdf)
+- (arXiv 2025) **PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Paths** [[Paper]](https://arxiv.org/abs/2502.14902)
 - (arXiv 2024) **From local to global: A graph rag approach to query-focused summarization** [[Paper]](https://arXiv.org/abs/2404.16130)
+- (EMNLP 2024 )**Structure Guided Prompt: Instructing Large Language Model in Multi-Step Reasoning by Exploring Graph Structure of the Text** [[Paper]](https://aclanthology.org/2024.emnlp-main.528.pdf)
 - (EMNLP 2024 Findings) **GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models** [[Paper]](https://aclanthology.org/2024.findings-emnlp.746/)
 - (SIGIR 2024) **Retrieval-augmented generation with knowledge graphs for customer service question answering** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3626772.3661370)
+- (arXiv 2024) **DynaGRAG | Exploring the Topology of Information for Advancing Language Understanding and Generation in Graph Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2412.18644)
 - (arXiv 2024) **FastRAG: Retrieval Augmented Generation for Semi-structured Data** [[Paper]](https://arxiv.org/abs/2411.13773)
 - (TechRxiv 2024) **LuminiRAG: Vision-Enhanced Graph RAG for Complex Multi-Modal Document Understanding** [[Paper]](https://www.techrxiv.org/users/867713/articles/1248304-luminirag-vision-enhanced-graph-rag-for-complex-multi-modal-document-understanding)
 - (BigData 2023) **AutoKG: Efficient automated knowledge graph generation for language models** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10386454)
@@ -164,7 +166,8 @@ We welcome researchers to share related work to enrich this list or provide insi
 - (arXiv 2024) **From local to global: A graph rag approach to query-focused summarization** [[Paper]](https://arXiv.org/abs/2404.16130)
 
 ### GNN-based Retriever
-- (arXiv 2024) **Advanced RAG Models with Graph Structures: Optimizing Complex Knowledge Reasoning and Text Generation** [[paper]](https://arXiv.org/abs/2411.03572)
+- (arXiv 2025) **CG-RAG: Research Question Answering by Citation Graph Retrieval-Augmented LLMs** [[Paper]](https://arxiv.org/abs/2501.15067)
+- (arXiv 2024) **Advanced RAG Models with Graph Structures: Optimizing Complex Knowledge Reasoning and Text Generation** [[Paper]](https://arXiv.org/abs/2411.03572)
 - (arXiv 2024) **Language Models are Graph Learners** [[paper]](https://arxiv.org/abs/2410.02296)
 - (arXiv 2024) **Graph Neural Network Enhanced Retrieval for Question Answering of LLMs** [[Paper]](https://arXiv.org/abs/2406.06572)
 - (arXiv 2024) **Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation** [[paper]](https://arXiv.org/abs/2305.18846)
