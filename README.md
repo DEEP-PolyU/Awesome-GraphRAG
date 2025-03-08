@@ -71,6 +71,7 @@ We welcome researchers to share related work to enrich this list or provide insi
             - [Collaborative Knowledge Graph Refinement](#collaborative-knowledge-graph-refinement)
 - [📚 Related Survey Papers](#-related-survey-papers)
 - [🏆 Benchmarks](#-benchmarks)
+- [💻 Open-source Projects](-open-source-projects)
 - [🍀 Citation](#-citation)
 - [⭐ Star History](#-star-history)
 
@@ -257,7 +258,7 @@ grounding** [[Paper]](https://aclanthology.org/2023.findings-acl.275/)
 | GrailQA | Domain-specific QA | [[WWW 2021]](https://dl.acm.org/doi/10.1145/3442381.3449992) | [[Github]](https://github.com/dki-lab/GrailQA) |
 | WebQSP | Domain-specific QA | [[ACL 2016]](https://aclanthology.org/P16-2033.pdf) | [[Microsoft]](http://aka.ms/WebQSP) |
 
-# 💻 Opensource Projects
+# 💻 Open-source Projects
 
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayLZhou/GraphRAG) DIGIMON: A unified and modular graph-based RAG framework
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gusye1234/nano-graphrag) Nano-graphRAG: A simple, easy-to-hack GraphRAG implementation
