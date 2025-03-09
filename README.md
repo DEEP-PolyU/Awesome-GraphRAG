@@ -86,9 +86,10 @@ We welcome researchers to share related work to enrich this list or provide insi
 ## Knowledge Organization
 
 ### Graphs for Knowledge Indexing
+- (arXiv 2025) **DIGIMON: A unified and modular graph-based RAG framework** [[Paper]](https://github.com/JayLZhou/GraphRAG.git)
+- (arXiv 2025) **ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2502.09891)
 - (arXiv 2025) **KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG** [[Paper]](https://arxiv.org/abs/2502.09304)
 - (arXiv 2025) **PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation** [[Paper]](https://arxiv.org/abs/2501.11551)
-- (arXiv 2025) **ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2502.09891)
 - (arXiv 2024) **Graph Neural Network Enhanced Retrieval for Question Answering of LLMs** [[Paper]](https://arXiv.org/abs/2406.06572)
 - (arXiv 2024) **KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation** [[Paper]](https://arxiv.org/abs/2409.13731)
 - (arXiv 2024) **OG-RAG: Ontology-Grounded Retrieval-Augmented Generation For Large Language Models** [[Paper]](https://arxiv.org/abs/2412.15235)
@@ -240,7 +241,7 @@ grounding** [[Paper]](https://aclanthology.org/2023.findings-acl.275/)
 # 🏆 Benchmarks
 | Dataset | Task | Paper | Repo |
 | --- | --- | --- | --- |
-| DIGIMON | Large-scale graphRAG | [[arXiv 2025]](https://www.arxiv.org/pdf/2503.04338) | [[Github]](https://github.com/JayLZhou/GraphRAG) |
+| **DIGIMON** | Large-scale graphRAG | [[arXiv 2025]](https://www.arxiv.org/pdf/2503.04338) | [[Github]](https://github.com/JayLZhou/GraphRAG) |
 | SimpleQuestion | Simple Question Answering | [[arXiv 2015]](https://arXiv.org/abs/1506.02075) | [[Github]](https://github.com/Jerryzhao-z/simple-question-answering-with-memory-networks) |
 | WebQ | Simple Question Answering | [[EMNLP 2013]](https://nlp.stanford.edu/pubs/semparseEMNLP13.pdf) | [[CodaLab]](https://worksheets.codalab.org/worksheets/0xba659fe363cb46e7a505c5b6a774dc8a) |
 |Multihop-RAG | Multi-hop Reasoning | [[COLING 2024]](https://arxiv.org/pdf/2401.15391) |    [[Github]](https://github.com/yixuantt/MultiHop-RAG/) |
