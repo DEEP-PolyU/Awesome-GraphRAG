@@ -71,7 +71,7 @@ We welcome researchers to share related work to enrich this list or provide insi
             - [Collaborative Knowledge Graph Refinement](#collaborative-knowledge-graph-refinement)
 - [📚 Related Survey Papers](#-related-survey-papers)
 - [🏆 Benchmarks](#-benchmarks)
-- [💻 Open-source Projects](-open-source-projects)
+- [💻 Open-source Projects](#-open-source-projects)
 - [🍀 Citation](#-citation)
 - [⭐ Star History](#-star-history)
 
