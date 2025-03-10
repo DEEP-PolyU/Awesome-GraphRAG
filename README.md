@@ -238,6 +238,12 @@ grounding** [[Paper]](https://aclanthology.org/2023.findings-acl.275/)
 - (arXiv 2024) **Graph Retrieval-Augmented Generation: A Survey** [[Paper]](https://arXiv.org/pdf/2408.08921)
 - (AIxSET 2024) **Graph Retrieval-Augmented Generation for Large Language Models: A Survey** [[Paper]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4895062)
 
+To explore the applications of LLMs on graph tasks, we recommend the following repositories:
+- [Awesome-LLMs-in-Graph-tasks](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks) by [Yuhan Li](https://yhleeee.github.io/) from HKUST(GZ).
+- [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) by [Xiaoxin He](https://xiaoxinhe.github.io/) from NUS.
+- [Awesome-Graph-Prompt](https://github.com/WxxShirley/Awesome-Graph-Prompt), created by [Xixi Wu](https://wxxshirley.github.io/) from CUHK.
+
+
 # 🏆 Benchmarks
 | Dataset | Task | Paper | Repo |
 | --- | --- | --- | --- |
