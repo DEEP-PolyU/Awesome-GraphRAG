@@ -273,7 +273,7 @@ To explore the applications of LLMs on graph tasks, we recommend the following r
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/circlemind-ai/fast-graphrag) Fast GraphRAG: RAG that intelligently adapts to your use case, data, and queries
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HKUDS/LightRAG) LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tpoisonooo/HuixiangDou2) HuixiangDou2: A Robustly Optimized GraphRAG Approach
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FalkorDB/GraphRAG-SDK) GraphRAG-SDK: a specialized toolkit for building GraphRAG systems.
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FalkorDB/GraphRAG-SDK) GraphRAG-SDK: a specialized toolkit for building GraphRAG systems. 
 
 
 # 🍀 Citation
