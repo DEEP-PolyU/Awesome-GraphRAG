@@ -262,7 +262,11 @@ grounding** [[Paper]](https://aclanthology.org/2023.findings-acl.275/)
 # 💻 Open-source Projects
 
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayLZhou/GraphRAG) DIGIMON: A unified and modular graph-based RAG framework
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gusye1234/nano-graphrag) Nano-graphRAG: A simple, easy-to-hack GraphRAG implementation
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/microsoft/graphrag.git) Microsoft-GraphRAG: A modular graph-based Retrieval-Augmented Generation (RAG) system
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gusye1234/nano-graphrag) Nano-GraphRAG: A simple, easy-to-hack GraphRAG implementation
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/circlemind-ai/fast-graphrag) Fast GraphRAG: RAG that intelligently adapts to your use case, data, and queries
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HKUDS/LightRAG) LightRAG: Simple and Fast Retrieval-Augmented Generation
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tpoisonooo/HuixiangDou2) HuixiangDou2: A Robustly Optimized GraphRAG Approach
 
 
 # 🍀 Citation
