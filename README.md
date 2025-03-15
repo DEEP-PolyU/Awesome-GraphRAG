@@ -182,7 +182,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 - (arXiv 2024) **Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs** [[Paper]](https://arXiv.org/abs/2410.11001)
 ### Post-retrieval 
 - (ACL 2024) **Boosting Language Models Reasoning with Chain-of-Knowledge Prompting** [[Paper]](https://arXiv.org/abs/2306.06427)
-- (ACL Findings 2024) **Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments** [[Paper]](https://arxiv.org/abs/2403.08593)
+- (ACL 2024 Findings) **Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments** [[Paper]](https://arxiv.org/abs/2403.08593)
 - (arXiv 2024) **Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models** [[Paper]](https://arxiv.org/abs/2410.13080)
 - (arXiv 2024) **Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-based Retrofitting** [[Paper]](https://arXiv.org/abs/2311.13314)
 
@@ -217,7 +217,7 @@ grounding** [[Paper]](https://aclanthology.org/2023.findings-acl.275/)
 - (arXiv 2024) **Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation** [[Paper]](https://arXiv.org/abs/2407.10805)
 - (arXiv 2024) **Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs** [[Paper]](https://arXiv.org/abs/2404.07103)
 - (ICLR 2024) **Chain-of-Knowledge: Grounding Large Language Models via Dynamic Knowledge Adapting over Heterogeneous Sources** [[Paper]](https://openreview.net/forum?id=cPgh4gWZlz)
-- (ACL Finding 2024) **Visual In-Context Learning for Large Vision-Language Models** [[Paper]](https://www.semanticscholar.org/Paper/Visual-In-Context-Learning-for-Large-Models-Zhou-Li/b00d1028291ae64e9d7485a34ec5f1b7b5a37909)
+- (ACL 2024 Findings) **Visual In-Context Learning for Large Vision-Language Models** [[Paper]](https://www.semanticscholar.org/Paper/Visual-In-Context-Learning-for-Large-Models-Zhou-Li/b00d1028291ae64e9d7485a34ec5f1b7b5a37909)
 - (NeurIPS 2023) **What makes good examples for visual in-context learning?** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/398ae57ed4fda79d0781c65c926d667b-Abstract-Conference.html)
 - (ACL 2023) **Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models** [[Paper]](https://aclanthology.org/2023.acl-long.147.pdf)
 - (AAAI 2024) **When Do Program-of-Thought Works for Reasoning?** [[Paper]](https://dl.acm.org/doi/10.1609/aaai.v38i16.29721)
