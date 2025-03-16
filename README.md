@@ -228,7 +228,7 @@ grounding** [[Paper]](https://aclanthology.org/2023.findings-acl.275/)
 #### Collaborative Knowledge Graph Refinement
 - (AAAI 2024) **Mitigating large language model hallucinations via autonomous knowledge graph-based retrofitting** [[Paper]](https://arXiv.org/abs/2311.13314)
 - (ACL 2024 Findings) **Knowledge Graph-Enhanced Large Language Models via Path Selection** [[Paper]](https://aclanthology.org/2024.findings-acl.376/)
-- (arXiv 2024) **Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs** [[Paper]](https://arxiv.org/abs/2410.23875)
+- (NeurIPS 2024) **Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs** [[Paper]](https://arxiv.org/abs/2410.23875)
 - (arXiv 2024) **Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph** [[Paper]](https://arXiv.org/abs/2406.01145)
 - (ACL 2024) **CogMG: Collaborative Augmentation Between Large Language Model and Knowledge Graph** [[Paper]](https://aclanthology.org/2024.acl-demos.35/)
 
