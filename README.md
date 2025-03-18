@@ -163,7 +163,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 ### LLM-based Retriever
 - (AAAI 2024) **Knowledge graph prompting for multi-document question answering** [[Paper]](https://www.overleaf.com/project/667419080bc7191bc75f5880)
 - (EMNLP 2024) **Structure Guided Prompt: Instructing Large Language Model in Multi-Step Reasoning by Exploring Graph Structure of the Text** [[Paper]](https://aclanthology.org/2024.emnlp-main.528.pdf)
-- (ACML) **Enhancing Textbook Question Answering with Knowledge Graph-Augmented Large Language Models** [[Paper]](https://openreview.net/forum?id=ATiIqCCqR2)
+- (ACML 2024) **Enhancing Textbook Question Answering with Knowledge Graph-Augmented Large Language Models** [[Paper]](https://openreview.net/forum?id=ATiIqCCqR2)
 - (ICLR 2024) **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph** [[Paper]](https://arXiv.org/abs/2307.07697)
 - (arXiv 2024) **LightRAG: Simple and Fast Retrieval-Augmented Generation** [[Paper]](https://arXiv.org/abs/2410.05779)
 - (arXiv 2024) **MEG: Medical Knowledge-Augmented Large Language Models for Question Answering** [[Paper]](https://arXiv.org/abs/2411.03883)
