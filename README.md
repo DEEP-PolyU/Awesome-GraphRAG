@@ -95,7 +95,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 - (arXiv 2024) **OG-RAG: Ontology-Grounded Retrieval-Augmented Generation For Large Language Models** [[Paper]](https://arxiv.org/abs/2412.15235)
 - (arXiv 2024) **GRAG: Graph Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2405.16506)
 - (arXiv 2024) **Empowering Large Language Models to Set up a Knowledge Retrieval Indexer via Self-Learning** [[Paper]](https://arXiv.org/abs/2405.16933)
-- (ICLR 2024) **RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval** [Paper](https://arxiv.org/abs/2401.18059)
+- (ICLR 2024) **RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval** [[Paper]](https://arxiv.org/abs/2401.18059)
 - (AAAI 2024) **Knowledge graph prompting for multi-document question answering** [[Paper]](https://www.overleaf.com/project/667419080bc7191bc75f5880)
 - (arXiv 2024) **GraphCoder: Enhancing Repository-Level Code Completion via Code Context Graph-based Retrieval and Language Model** [[Paper]](https://arXiv.org/abs/2406.07003)
 - (NeurIPS 2023) **Avis: Autonomous visual information seeking with large language model agent** [[Paper]](https://openreview.net/forum?id=7EMphtUgCI&noteId=yGw4rbGozi)
