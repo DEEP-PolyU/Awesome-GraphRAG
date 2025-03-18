@@ -143,7 +143,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 ## Knowledge Retrieval
 
 ### Semantics Similarity-based Retriever
-- (AAAI 2024) **StructuGraphRAG: Structured Document-Informed Knowledge Graphs for Retrieval-Augmented Generation** [Paper]
+- (AAAI 2024) **StructuGraphRAG: Structured Document-Informed Knowledge Graphs for Retrieval-Augmented Generation** [[Paper]](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31798/33965)
 - (arXiv 2024) **G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering** [[Paper]](https://arXiv.org/abs/2402.07630)
 - (arXiv 2024) **CancerKG.ORG A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care** [[Paper]](https://arXiv.org/abs/2501.00223)
 - (arXiv 2024) **Empowering Large Language Models to Set up a Knowledge Retrieval Indexer via Self-Learning** [[Paper]](https://arXiv.org/abs/2405.16933)
@@ -162,7 +162,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 
 ### LLM-based Retriever
 - (AAAI 2024) **Knowledge graph prompting for multi-document question answering** [[Paper]](https://www.overleaf.com/project/667419080bc7191bc75f5880)
-- (EMNLP 2024 )**Structure Guided Prompt: Instructing Large Language Model in Multi-Step Reasoning by Exploring Graph Structure of the Text** [[Paper]](https://aclanthology.org/2024.emnlp-main.528.pdf)
+- (EMNLP 2024) **Structure Guided Prompt: Instructing Large Language Model in Multi-Step Reasoning by Exploring Graph Structure of the Text** [[Paper]](https://aclanthology.org/2024.emnlp-main.528.pdf)
 - (ACML) **Enhancing Textbook Question Answering with Knowledge Graph-Augmented Large Language Models** [[Paper]](https://openreview.net/forum?id=ATiIqCCqR2)
 - (ICLR 2024) **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph** [[Paper]](https://arXiv.org/abs/2307.07697)
 - (arXiv 2024) **LightRAG: Simple and Fast Retrieval-Augmented Generation** [[Paper]](https://arXiv.org/abs/2410.05779)
