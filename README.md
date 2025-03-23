@@ -90,6 +90,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 - (arXiv 2025) **ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2502.09891)
 - (arXiv 2025) **KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG** [[Paper]](https://arxiv.org/abs/2502.09304)
 - (arXiv 2025) **PIKE-RAG: sPecIalized KnowledgE and Rationale Augmented Generation** [[Paper]](https://arxiv.org/abs/2501.11551)
+- (arXiv 2025) **Retrieval-Augmented Generation with Hierarchical Knowledge** [[Paper]](https://arxiv.org/abs/2503.10150)
 - (arXiv 2024) **Graph Neural Network Enhanced Retrieval for Question Answering of LLMs** [[Paper]](https://arXiv.org/abs/2406.06572)
 - (arXiv 2024) **KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation** [[Paper]](https://arxiv.org/abs/2409.13731)
 - (arXiv 2024) **OG-RAG: Ontology-Grounded Retrieval-Augmented Generation For Large Language Models** [[Paper]](https://arxiv.org/abs/2412.15235)
@@ -121,6 +122,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 
 #### GraphRAG with Existing KGs
 - (ICLR 2025) **Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation** [[Paper]](https://openreview.net/forum?id=JvkuZZ04O7)
+- (arXiv 2025) **Empowering GraphRAG with Knowledge Filtering and Integration** [[Paper]](https://arxiv.org/abs/2503.13804)
 - (arXiv 2024)**StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via Inference-time Hybrid Information Structurization** [[Paper]](https://arXiv.org/abs/2410.08815)
 - (ICLR 2024) **Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning** [[Paper]](https://openreview.net/forum?id=ZGNWW7xZ6Q)
 - (AAAI 2024) **Mitigating large language model hallucinations via autonomous knowledge graph-based retrofitting** [[Paper]](https://dl.acm.org/doi/10.1609/aaai.v38i16.29770)
