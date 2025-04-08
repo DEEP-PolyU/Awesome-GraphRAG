@@ -269,7 +269,7 @@ To explore the applications of LLMs on graph tasks, we recommend the following r
 | WebQSP | Domain-specific QA | [[ACL 2016]](https://aclanthology.org/P16-2033.pdf) | [[Microsoft]](http://aka.ms/WebQSP) |
 
 # 💻 Open-source Projects
-
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chensyCN/Agentic-RAG) Agentic-RAG: A simple and hackable agentic RAG pipeline.
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayLZhou/GraphRAG) DIGIMON: A unified and modular graph-based RAG framework
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/microsoft/graphrag.git) Microsoft-GraphRAG: A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gusye1234/nano-graphrag) Nano-GraphRAG: A simple, easy-to-hack GraphRAG implementation
