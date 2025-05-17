@@ -54,6 +54,7 @@ We welcome researchers to share related work to enrich this list or provide insi
             - [GraphRAG with Existing KGs](#graphrag-with-existing-kgs)
         - [Hybrid GraphRAG](#hybrid-graphrag)
     - [Knowledge Retrieval](#knowledge-retrieval)
+        - [Generative Retriever](#generative-retriever)
         - [Semantics Similarity-based Retriever](#semantics-similarity-based-retriever)
         - [Logical Reasoning-based Retriever](#logical-reasoning-based-retriever)
         - [LLM-based Retriever](#llm-based-retriever)
@@ -144,6 +145,9 @@ We welcome researchers to share related work to enrich this list or provide insi
 - (arXiv 2024) **Codexgraph: Bridging large language models and code repositories via code graph databases** [[Paper]](https://arXiv.org/abs/2408.03910)
 
 ## Knowledge Retrieval
+
+### Generative Retriever
+- (EDBT 2025) **DBCopilot: Natural Language Querying over Massive Databases via Schema Routing** [[Paper]](https://openproceedings.org/2025/conf/edbt/paper-209.pdf)
 
 ### Semantics Similarity-based Retriever
 - (AAAI 2024) **StructuGraphRAG: Structured Document-Informed Knowledge Graphs for Retrieval-Augmented Generation** [[Paper]](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31798/33965)
