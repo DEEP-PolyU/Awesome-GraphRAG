@@ -86,6 +86,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 ## Knowledge Organization
 
 ### Graphs for Knowledge Indexing
+- (arXiv 2025) **E^2GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness** [[Paper]](https://arxiv.org/abs/2505.24226)
 - (arXiv 2025) **DIGIMON: A unified and modular graph-based RAG framework** [[Paper]](https://github.com/JayLZhou/GraphRAG.git)
 - (arXiv 2025) **ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2502.09891)
 - (arXiv 2025) **KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG** [[Paper]](https://arxiv.org/abs/2502.09304)
