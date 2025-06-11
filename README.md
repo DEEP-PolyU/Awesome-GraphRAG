@@ -253,6 +253,7 @@ To explore the applications of LLMs on graph tasks, we recommend the following r
 # 🏆 Benchmarks
 | Dataset | Task | Paper | Repo |
 | --- | --- | --- | --- |
+| GraphRAG-Bench | GraphRAG evaluate | [[arXiv 2025]](https://arxiv.org/abs/2506.05690) | [[Github]](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) |
 | DIGIMON | Large-scale graphRAG | [[arXiv 2025]](https://www.arxiv.org/pdf/2503.04338) | [[Github]](https://github.com/JayLZhou/GraphRAG) |
 | SimpleQuestion | Simple Question Answering | [[arXiv 2015]](https://arXiv.org/abs/1506.02075) | [[Github]](https://github.com/Jerryzhao-z/simple-question-answering-with-memory-networks) |
 | WebQ | Simple Question Answering | [[EMNLP 2013]](https://nlp.stanford.edu/pubs/semparseEMNLP13.pdf) | [[CodaLab]](https://worksheets.codalab.org/worksheets/0xba659fe363cb46e7a505c5b6a774dc8a) |
