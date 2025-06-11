@@ -11,6 +11,11 @@
 
 This repository contains a curated list of resources on graph-based retrieval-augmented generation (GraphRAG), which are classified according to "[**A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models**](https://arxiv.org/abs/2501.13958)". Continuously updating, stay tuned!
 
+### 🎉 News
+- **[2025-06-06]** We release [GraphRAG-Bench](https://graphrag-bench.github.io), a comprehensive benchmark for evaluating Graph Retrieval-Augmented Generation models.
+
+- **[2025-01-21]** We release the GraphRAG survey.
+
 <div>
 <h3 align="left">
        <p align="center"><img width="100%" src="figs/main_fig.png" /></p>
