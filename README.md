@@ -13,7 +13,7 @@ This repository contains a curated list of resources on graph-based retrieval-au
 
 # 🎉 News
 - **[2025-06-06]** We release **[GraphRAG-Bench](https://graphrag-bench.github.io)**, the benchmark for evaluating GraphRAG models.
-- **[2025-05-14]** We release the [GraphRAG-Bench dataset](https://www.kaggle.com/datasets/wuchuanjie/graphrag-bench).
+- **[2025-05-14]** We release the [GraphRAG-Bench dataset](https://huggingface.co/datasets/GraphRAG-Bench/GraphRAG-Bench).
 - **[2025-01-21]** We release the [GraphRAG survey](https://github.com/DEEP-PolyU/Awesome-GraphRAG).
 
 ---
