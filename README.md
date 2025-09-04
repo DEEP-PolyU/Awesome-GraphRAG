@@ -131,6 +131,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 - (SIGIR 2019) **Answering complex questions by joining multi-document evidence with quasi knowledge graphs** [[Paper]](https://dl.acm.org/doi/10.1145/3331184.3331252)
 
 #### GraphRAG with Existing KGs
+- （arXiv 2025） **Inference Scaled GraphRAG: Improving Multi Hop Question Answering on Knowledge Graphs** [[Paper]](https://arxiv.org/abs/2506.19967)
 - (AAAI 2025) **LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph** [[Paper]](https://arxiv.org/abs/2504.03137)
 - (ICLR 2025) **Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation** [[Paper]](https://openreview.net/forum?id=JvkuZZ04O7)
 - (arXiv 2025) **Empowering GraphRAG with Knowledge Filtering and Integration** [[Paper]](https://arxiv.org/abs/2503.13804)
