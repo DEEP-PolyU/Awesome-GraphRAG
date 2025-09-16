@@ -115,6 +115,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 
 ### Graphs as Knowledge Carrier
 #### Knowledge Graph Construction from Corpus
+- (arXiv 2025) 🌟**Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning** [[Github]](https://github.com/TencentCloudADP/Youtu-GraphRAG)
 - (arXiv 2025) **Retrieval-Augmented Generation with Hierarchical Knowledge** [[Paper]](https://arxiv.org/abs/2503.10150)
 - (arXiv 2025) **MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot** [[Paper]](https://arxiv.org/abs/2502.04413)
 - (arXiv 2025) **PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Paths** [[Paper]](https://arxiv.org/abs/2502.14902)
