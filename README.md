@@ -11,6 +11,18 @@
 
 This repository contains a curated list of resources on graph-based retrieval-augmented generation (GraphRAG), which are classified according to "[**A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models**](https://arxiv.org/abs/2501.13958)". Continuously updating, stay tuned!
 
+# 🍀 Citation
+If you find this survey helpful, please cite our paper:
+```
+@article{zhang2025survey,
+  title={A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models},
+  author={Zhang, Qinggang and Chen, Shengyuan and Bei, Yuanchen and Yuan, Zheng and Zhou, Huachi and Hong, Zijin and Dong, Junnan and Chen, Hao and Chang, Yi and Huang, Xiao},
+  journal={arXiv preprint arXiv:2501.13958},
+  year={2025}
+}
+```
+
+
 # 🎉 News
 - **[2025-06-06]** We release **[GraphRAG-Bench](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark.git)**, the benchmark for evaluating GraphRAG models.
 - **[2025-05-14]** We release the [GraphRAG-Bench dataset](https://huggingface.co/datasets/GraphRAG-Bench/GraphRAG-Bench).
@@ -51,6 +63,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 
 
 ## Table of Content
+- [🍀 Citation](#-citation)
 - [📫 Contact Us](#-contact-us)
 - [📈 Trend of GraphRAG Research](#-trend-of-graphrag-research)
 - [📜 Research Papers](#-research-papers)
@@ -79,7 +92,6 @@ We welcome researchers to share related work to enrich this list or provide insi
 - [📚 Related Survey Papers](#-related-survey-papers)
 - [🏆 Benchmarks](#-benchmarks)
 - [💻 Open-source Projects](#-open-source-projects)
-- [🍀 Citation](#-citation)
 - [⭐ Star History](#-star-history)
 
 
@@ -298,16 +310,6 @@ To explore the applications of LLMs on graph tasks, we recommend the following r
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FalkorDB/GraphRAG-SDK) GraphRAG-SDK: a specialized toolkit for building GraphRAG systems. 
 
 
-# 🍀 Citation
-If you find this survey helpful, please cite our paper:
-```
-@article{zhang2025survey,
-  title={A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models},
-  author={Zhang, Qinggang and Chen, Shengyuan and Bei, Yuanchen and Yuan, Zheng and Zhou, Huachi and Hong, Zijin and Dong, Junnan and Chen, Hao and Chang, Yi and Huang, Xiao},
-  journal={arXiv preprint arXiv:2501.13958},
-  year={2025}
-}
-```
 
 
 # ⭐ Star History
