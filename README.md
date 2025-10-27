@@ -24,7 +24,7 @@ If you find this survey helpful, please cite our paper:
 
 
 # 🎉 News
-- **[2025-10-27]** We release LinearRAG, a relation-free graph construction method for efficient and context-preserving GraphRAG.  It eliminates LLM token costs during graph construction, making GraphRAG faster and more efficient than ever.  [[Paper](https://arxiv.org/abs/2510.10114)\|[code](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
+- **[2025-10-27]** We release **[LinearRAG](https://github.com/DEEP-PolyU/LinearRAG)**, a relation-free graph construction method for efficient GraphRAG.
 - **[2025-06-06]** We release **[GraphRAG-Bench](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark.git)**, the benchmark for evaluating GraphRAG models.
 - **[2025-05-14]** We release the [GraphRAG-Bench dataset](https://huggingface.co/datasets/GraphRAG-Bench/GraphRAG-Bench).
 - **[2025-01-21]** We release the [GraphRAG survey](https://github.com/DEEP-PolyU/Awesome-GraphRAG).
