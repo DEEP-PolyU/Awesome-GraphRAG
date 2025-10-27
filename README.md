@@ -24,6 +24,7 @@ If you find this survey helpful, please cite our paper:
 
 
 # 🎉 News
+- **[2025-10-27]** We release LinearRAG, a relation-free graph construction method for efficient and context-preserving GraphRAG.  It eliminates LLM token costs during graph construction, making GraphRAG faster and more efficient than ever.  [[Paper](https://arxiv.org/abs/2510.10114)\|[code](https://github.com/DEEP-PolyU/LinearRAG)] [![](https://img.shields.io/github/stars/DEEP-PolyU/LinearRAG)](https://github.com/DEEP-PolyU/LinearRAG)
 - **[2025-06-06]** We release **[GraphRAG-Bench](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark.git)**, the benchmark for evaluating GraphRAG models.
 - **[2025-05-14]** We release the [GraphRAG-Bench dataset](https://huggingface.co/datasets/GraphRAG-Bench/GraphRAG-Bench).
 - **[2025-01-21]** We release the [GraphRAG survey](https://github.com/DEEP-PolyU/Awesome-GraphRAG).
@@ -127,6 +128,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 
 ### Graphs as Knowledge Carrier
 #### Knowledge Graph Construction from Corpus
+- (Arxiv 2025) **LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**  [[Paper](https://arxiv.org/abs/2510.10114)\|[code](https://github.com/DEEP-PolyU/LinearRAG)]
 - (CVPR 2025) **Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2408.04187)
 - (arXiv 2025) **Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning** [[Paper]](https://www.arxiv.org/abs/2508.19855)
 - (arXiv 2025) **Retrieval-Augmented Generation with Hierarchical Knowledge** [[Paper]](https://arxiv.org/abs/2503.10150)
@@ -295,7 +297,7 @@ To explore the applications of LLMs on graph tasks, we recommend the following r
 | GrailQA | Domain-specific QA | [[WWW 2021]](https://dl.acm.org/doi/10.1145/3442381.3449992) | [[Github]](https://github.com/dki-lab/GrailQA) |
 | WebQSP | Domain-specific QA | [[ACL 2016]](https://aclanthology.org/P16-2033.pdf) | [[Microsoft]](http://aka.ms/WebQSP) |
 
-# 💻 Open-source Projects
+# 💻 Open-source Project
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bibinprathap/VeritasGraph) Graph RAG pipeline that runs locally with ollama and has full source attribution 
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://graphrag-bench.github.io/) GraphRAG-Bench: A Comprehensive Benchmark and Analysis for Graph Retrieval-Augmented Generation. 
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chensyCN/Agentic-RAG) Agentic-RAG: A clean and extensible agentic RAG system. 
