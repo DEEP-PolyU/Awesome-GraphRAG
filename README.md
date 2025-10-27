@@ -129,6 +129,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 ### Graphs as Knowledge Carrier
 #### Knowledge Graph Construction from Corpus
 - (Arxiv 2025) **LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**  [[Paper](https://arxiv.org/abs/2510.10114)\|[code](https://github.com/DEEP-PolyU/LinearRAG)]
+- (NeurIPS 2025) **GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation** [Paper](https://arxiv.org/abs/2502.01113)
 - (CVPR 2025) **Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2408.04187)
 - (arXiv 2025) **Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning** [[Paper]](https://www.arxiv.org/abs/2508.19855)
 - (arXiv 2025) **Retrieval-Augmented Generation with Hierarchical Knowledge** [[Paper]](https://arxiv.org/abs/2503.10150)
