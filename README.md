@@ -25,7 +25,7 @@ If you find this survey helpful, please cite our paper:
 
 # 🎉 News
 - **[2025-11-08]** Our work **[LogicRAG](https://github.com/chensyCN/LogicRAG.git)** is accepted to AAAI'26, which dynamically extracts reasoning structures at inference time to guide adaptive retrieval without any pre-built graph.
-- **[2025-10-27]** We release **LinearRAG**, a relation-free graph construction method for efficient [GraphRAG](https://github.com/DEEP-PolyU/LinearRAG)].
+- **[2025-10-27]** We release **LinearRAG**, a relation-free graph construction method for efficient [GraphRAG](https://github.com/DEEP-PolyU/LinearRAG).
 - **[2025-06-06]** We release **[GraphRAG-Bench](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark.git)**, the benchmark for evaluating GraphRAG models.
 - **[2025-05-14]** We release the [GraphRAG-Bench dataset](https://huggingface.co/datasets/GraphRAG-Bench/GraphRAG-Bench).
 - **[2025-01-21]** We release the [GraphRAG survey](https://github.com/DEEP-PolyU/Awesome-GraphRAG).
