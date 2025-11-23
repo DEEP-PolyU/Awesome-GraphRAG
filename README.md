@@ -24,7 +24,7 @@ If you find this survey helpful, please cite our paper:
 
 
 # 🎉 News
-- **[2025-11-08]** Our **[LogicRAG](https://github.com/chensyCN/LogicRAG.git)**, a GraphRAG modle with dynamic reasoing is accepted by AAAI'26.
+- **[2025-11-08]** Our **[LogicRAG](https://github.com/chensyCN/LogicRAG.git)**, a GraphRAG model with dynamic reasoing is accepted by AAAI'26.
 - **[2025-10-27]** We release **[LinearRAG](https://github.com/DEEP-PolyU/LinearRAG)**, a relation-free graph construction method for efficient GraphRAG.
 - **[2025-06-06]** We release **[GraphRAG-Bench](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark.git)**, the benchmark for evaluating GraphRAG models.
 - **[2025-05-14]** We release the [GraphRAG-Bench dataset](https://huggingface.co/datasets/GraphRAG-Bench/GraphRAG-Bench).
@@ -314,7 +314,16 @@ To explore the applications of LLMs on graph tasks, we recommend the following r
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tpoisonooo/HuixiangDou2) HuixiangDou2: A Robustly Optimized GraphRAG Approach
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FalkorDB/GraphRAG-SDK) GraphRAG-SDK: a specialized toolkit for building GraphRAG systems. 
 
-
+# 🍀 Citation
+If you find this survey helpful, please cite our paper:
+```
+@article{zhang2025survey,
+  title={A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models},
+  author={Zhang, Qinggang and Chen, Shengyuan and Bei, Yuanchen and Yuan, Zheng and Zhou, Huachi and Hong, Zijin and Dong, Junnan and Chen, Hao and Chang, Yi and Huang, Xiao},
+  journal={arXiv preprint arXiv:2501.13958},
+  year={2025}
+}
+```
 
 
 # ⭐ Star History
