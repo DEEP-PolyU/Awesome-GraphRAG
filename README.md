@@ -185,6 +185,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 - (arXiv 2024) **How to Make LLMs Strong Node Classifiers?** [[Paper]](https://arxiv.org/abs/2410.02296)
 
 ### Logical Reasoning-based Retriever
+- (AAAI 2026) **You Don’t Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures** [[Paper](https://arxiv.org/abs/2508.06105)|[Code](https://github.com/chensyCN/LogicRAG)]
 - (NeurIPS 2024) **KnowGPT: Knowledge Graph based PrompTing for Large Language Models** [[Paper]](https://openreview.net/forum?id=PacBluO5m7&referrer=%5Bthe%20profile%20of%20Daochen%20Zha%5D(%2Fprofile%3Fid%3D~Daochen_Zha1))
 - (ACL 2024 Findings) **Knowledge Graph-Enhanced Large Language Models via Path Selection** [[Paper]](https://aclanthology.org/2024.findings-acl.376/)
 - (ICLR 2024) **Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph** [[Paper]](https://openreview.net/forum?id=nnVO1PvbTv)
