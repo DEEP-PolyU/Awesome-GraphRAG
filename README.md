@@ -107,6 +107,8 @@ We welcome researchers to share related work to enrich this list or provide insi
 ## Knowledge Organization
 
 ### Graphs for Knowledge Indexing
+- (arXiv 2025) **Multi-Agent GraphRAG: A Text-to-Cypher Framework for Labeled Property Graphs** [[]]()
+- (arXiv 2025) **Grounded by Experience: Generative Healthcare Prediction Augmented with Hierarchical Agentic Retrieval** [[Paper]](https://arxiv.org/abs/2511.13293)
 - (ICML 2025) **HippoRAG2: From RAG to Memory: Non-Parametric Continual Learning for Large Language Models** [[Paper]](https://arxiv.org/abs/2502.14802)
 - (arXiv 2025) **PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM** [[Paper]](https://arxiv.org/abs/2511.17467)
 - (arXiv 2025) **E^2GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness** [[Paper]](https://arxiv.org/abs/2505.24226)
@@ -130,7 +132,10 @@ We welcome researchers to share related work to enrich this list or provide insi
 
 ### Graphs as Knowledge Carrier
 #### Knowledge Graph Construction from Corpus
+- (CIKM 2025) **Context-Aware Fine-Grained Graph RAG for Query-Focused Summarization** [[Paper]]()
+- (CIKM 2025) **DocPolicyKG: A Lightweight LLM-Based Framework for Knowledge Graph Construction from Chinese Policy Documents** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746252.3760904)
 - (arXiv 2025) **LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**  [[Paper]](https://arxiv.org/abs/2510.10114)
+- (arXiv 2025) **Ontology Learning and Knowledge Graph Construction: A Comparison of Approaches and Their Impact on RAG Performance** [[Paper]](https://arxiv.org/abs/2511.05991)
 - (NeurIPS 2025) **GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation** [Paper](https://arxiv.org/abs/2502.01113)
 - (arXiv 2025) **G-reasoner: Foundation Models for Unified Reasoning over Graph-structured Knowledge** [[Paper]](https://arxiv.org/abs/2509.24276)
 - (CVPR 2025) **Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2408.04187)
