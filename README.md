@@ -134,6 +134,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 
 ### Graphs as Knowledge Carrier
 #### Knowledge Graph Construction from Corpus
+- (AAAI 2026) **You Don’t Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures** [[Paper]](https://arxiv.org/abs/2508.06105)
 - (arXiv 2025) **AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction** [[Paper]](https://arxiv.org/abs/2510.15339)
 - (EMNLP 2025) **MaGiX: A Multi-Granular Adaptive Graph Intelligence Framework for Enhancing Cross-Lingual RAG** [[Paper]](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.279.pdf)
 - (CIKM 2025) **Context-Aware Fine-Grained Graph RAG for Query-Focused Summarization** [[Paper]](https://dl.acm.org/doi/10.1145/3746252.3760935)
