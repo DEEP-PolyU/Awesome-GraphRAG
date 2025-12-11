@@ -109,6 +109,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 ### Graphs for Knowledge Indexing
 - (arXiv 2025) **LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**  [[Paper]](https://arxiv.org/abs/2510.10114)
 - (EMNLP 2025) **Don’t Forget the Base Retriever! A Low-Resource Graph-based Retriever for Multi-hop Question Answering** [[Paper]](https://aclanthology.org/2025.emnlp-industry.174/)
+- (arXiv 2025) **Query-Centric Graph Retrieval Augmented Generation** [[Paper]](https://arxiv.org/abs/2509.22009)
 - (arXiv 2025) **Multi-Agent GraphRAG: A Text-to-Cypher Framework for Labeled Property Graphs** [[Paper]](https://arxiv.org/abs/2510.09156)
 - (arXiv 2025) **Grounded by Experience: Generative Healthcare Prediction Augmented with Hierarchical Agentic Retrieval** [[Paper]](https://arxiv.org/abs/2511.13293)
 - (ICML 2025) **HippoRAG2: From RAG to Memory: Non-Parametric Continual Learning for Large Language Models** [[Paper]](https://arxiv.org/abs/2502.14802)
@@ -161,6 +162,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 - (SIGIR 2019) **Answering complex questions by joining multi-document evidence with quasi knowledge graphs** [[Paper]](https://dl.acm.org/doi/10.1145/3331184.3331252)
 
 #### GraphRAG with Existing KGs
+- (arXiv 2025) **GraphSearch: An Agentic Deep Searching Workflow for Graph Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2509.22009)
 - （arXiv 2025） **Inference Scaled GraphRAG: Improving Multi Hop Question Answering on Knowledge Graphs** [[Paper]](https://arxiv.org/abs/2506.19967)
 - (AAAI 2025) **LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph** [[Paper]](https://arxiv.org/abs/2504.03137)
 - (ICLR 2025) **Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation** [[Paper]](https://openreview.net/forum?id=JvkuZZ04O7)
