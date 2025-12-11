@@ -107,6 +107,8 @@ We welcome researchers to share related work to enrich this list or provide insi
 ## Knowledge Organization
 
 ### Graphs for Knowledge Indexing
+- 
+- (EMNLP 2025) **Don’t Forget the Base Retriever! A Low-Resource Graph-based Retriever for Multi-hop Question Answering** [[Paper]](https://aclanthology.org/2025.emnlp-industry.174.pdf)
 - (arXiv 2025) **Multi-Agent GraphRAG: A Text-to-Cypher Framework for Labeled Property Graphs** [[]]()
 - (arXiv 2025) **Grounded by Experience: Generative Healthcare Prediction Augmented with Hierarchical Agentic Retrieval** [[Paper]](https://arxiv.org/abs/2511.13293)
 - (ICML 2025) **HippoRAG2: From RAG to Memory: Non-Parametric Continual Learning for Large Language Models** [[Paper]](https://arxiv.org/abs/2502.14802)
@@ -132,6 +134,8 @@ We welcome researchers to share related work to enrich this list or provide insi
 
 ### Graphs as Knowledge Carrier
 #### Knowledge Graph Construction from Corpus
+- (arXiv 2025) **AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction** [[Paper]](https://arxiv.org/abs/2510.15339)
+- (ENMLP 2025) **MaGiX: A Multi-Granular Adaptive Graph Intelligence Framework for Enhancing Cross-Lingual RAG** [[Paper]](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.279.pdf)
 - (CIKM 2025) **Context-Aware Fine-Grained Graph RAG for Query-Focused Summarization** [[Paper]]()
 - (CIKM 2025) **DocPolicyKG: A Lightweight LLM-Based Framework for Knowledge Graph Construction from Chinese Policy Documents** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746252.3760904)
 - (arXiv 2025) **LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**  [[Paper]](https://arxiv.org/abs/2510.10114)
