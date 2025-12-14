@@ -163,6 +163,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 
 #### GraphRAG with Existing KGs
 - (arXiv 2025) **GraphSearch: An Agentic Deep Searching Workflow for Graph Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2509.22009)
+- (arXiv 2025) **Detecting Hallucinations in Graph Retrieval-Augmented Generation via Attention Patterns and Semantic Alignment** [[Paper]](https://arxiv.org/abs/2512.09148)
 - （arXiv 2025） **Inference Scaled GraphRAG: Improving Multi Hop Question Answering on Knowledge Graphs** [[Paper]](https://arxiv.org/abs/2506.19967)
 - (AAAI 2025) **LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph** [[Paper]](https://arxiv.org/abs/2504.03137)
 - (ICLR 2025) **Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation** [[Paper]](https://openreview.net/forum?id=JvkuZZ04O7)
