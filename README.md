@@ -26,7 +26,7 @@ If you find this survey helpful, please cite our paper:
 # 🎉 News
 - **[2026-01-26]** Our **[GraphRAG Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)** is accepted by ICLR’26. 
 - **[2026-01-26]** Our **[LinearRAG](https://github.com/DEEP-PolyU/LinearRAG)** is accepted by ICLR’26.
-- **[2025-11-08]** Our **[LogicRAG](https://github.com/chensyCN/LogicRAG.git)**, a GraphRAG model with dynamic reasoing is accepted by AAAI'26.
+- **[2025-11-08]** Our **[LogicRAG](https://github.com/chensyCN/LogicRAG.git)** is accepted by AAAI'26.
 - **[2025-10-27]** We release **[LinearRAG](https://github.com/DEEP-PolyU/LinearRAG)**, a relation-free graph construction method for efficient GraphRAG.
 - **[2025-06-06]** We release the **[GraphRAG Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark.git)** for evaluating GraphRAG models.
 - **[2025-05-14]** We release the [GraphRAG Benchmark dataset](https://huggingface.co/datasets/GraphRAG-Bench/GraphRAG-Bench).
