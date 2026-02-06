@@ -320,7 +320,7 @@ To explore the applications of LLMs on graph tasks, we recommend the following r
 | WebQSP | Domain-specific QA | [[ACL 2016]](https://aclanthology.org/P16-2033.pdf) | [[Microsoft]](http://aka.ms/WebQSP) |
 
 # 💻 Open-source Project
-- - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hawksight-AI/semantica) Semantica: an open-source, production-ready semantic layer and GraphRAG framework that sits between raw corpora and LLMs.
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hawksight-AI/semantica) Semantica: an open-source, production-ready semantic layer and GraphRAG framework that sits between raw corpora and LLMs.
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bibinprathap/VeritasGraph) Graph RAG pipeline that runs locally with ollama and has full source attribution 
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://graphrag-bench.github.io/) GraphRAG-Bench: A Comprehensive Benchmark and Analysis for Graph Retrieval-Augmented Generation. 
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chensyCN/Agentic-RAG) Agentic-RAG: A clean and extensible agentic RAG system. 
