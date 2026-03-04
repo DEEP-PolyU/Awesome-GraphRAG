@@ -88,7 +88,6 @@ We welcome researchers to share related work to enrich this list or provide insi
 - [📚 Related Survey Papers](#-related-survey-papers)
 - [🏆 Benchmarks](#-benchmarks)
 - [💻 Open-source Projects](#-open-source-projects)
-- [⭐ Star History](#-star-history)
 
 
 # 📈 Trend of GraphRAG Research
@@ -339,8 +338,3 @@ If you find this survey helpful, please cite our paper:
   year={2025}
 }
 ```
-
-
-# ⭐ Star History
-
-![Star History Chart](https://api.star-history.com/svg?repos=DEEP-PolyU/Awesome-GraphRAG&type=Date)
