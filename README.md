@@ -15,6 +15,7 @@ This repository contains a curated list of resources on graph-based retrieval-au
 **📃 Please [cite our paper](#-citation)** if you find our survey or repository helpful!
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts with knowledge graph memory for Claude Code multi-agent orchestration. MIT licensed.
 # 🎉 News
 - **[2026-01-26]** Our **[GraphRAG Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)** is accepted by ICLR’26. 
 - **[2026-01-26]** Our **[LinearRAG](https://github.com/DEEP-PolyU/LinearRAG)** is accepted by ICLR’26.
