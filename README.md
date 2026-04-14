@@ -289,6 +289,7 @@ To explore the applications of LLMs on graph tasks, we recommend the following r
 - [Awesome-LLMs-in-Graph-tasks](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks) by [Yuhan Li](https://yhleeee.github.io/) from HKUST(GZ).
 - [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) by [Xiaoxin He](https://xiaoxinhe.github.io/) from NUS.
 - [Awesome-Graph-Prompt](https://github.com/WxxShirley/Awesome-Graph-Prompt), created by [Xixi Wu](https://wxxshirley.github.io/) from CUHK.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 
 # 🏆 Benchmarks
