@@ -179,6 +179,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 - (arXiv 2024) **Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation** [[Paper]](https://arXiv.org/abs/2407.10805)
 
 ### Hybrid GraphRAG
+- (AAAI 2026) **ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning**[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/40644
 - (NAACL 2025) **Knowledge Graph-Guided Retrieval Augmented Generation** [[Paper]](https://arxiv.org/abs/2502.06864)
 - (ACL 2024 Findings) **HybGRAG: Hybrid Retrieval-Augmented Generation on Textual and Relational Knowledge Bases**[[Paper]](https://arxiv.org/abs/2412.16311)
 - (arXiv 2024) **Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs** [[Paper]](https://arXiv.org/abs/2410.11001)
@@ -224,6 +225,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 
 
 ### Multi-round Retriever
+- (AAAI 2026) **ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning**[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/40644)
 - (arXiv 2024) **Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs** [[Paper]](https://arXiv.org/abs/2404.07103)
 - (arXiv 2024) **Generative Subgraph Retrieval for Knowledge Graph-Grounded Dialog Generation** [[Paper]](https://arXiv.org/abs/2410.09350)
 - (arXiv 2024) **Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs** [[Paper]](https://arXiv.org/abs/2410.11001)
