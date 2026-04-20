@@ -104,7 +104,8 @@ We welcome researchers to share related work to enrich this list or provide insi
 ## Knowledge Organization
 
 ### Graphs for Knowledge Indexing
-- (arXiv 2025) **LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**  [[Paper]](https://arxiv.org/abs/2510.10114)
+- (ICLR 2026) **LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora**  [[Paper]](https://arxiv.org/abs/2510.10114)
+- (arXiv 2025) **Improving Multi-step RAG with Hypergraph-based Memoryfor Long-Context Complex Relational Modeling** [[Paper]](https://arxiv.org/abs/2512.23959)
 - (EMNLP 2025) **Don’t Forget the Base Retriever! A Low-Resource Graph-based Retriever for Multi-hop Question Answering** [[Paper]](https://aclanthology.org/2025.emnlp-industry.174/)
 - (arXiv 2025) **Query-Centric Graph Retrieval Augmented Generation** [[Paper]](https://arxiv.org/abs/2509.22009)
 - (arXiv 2025) **Multi-Agent GraphRAG: A Text-to-Cypher Framework for Labeled Property Graphs** [[Paper]](https://arxiv.org/abs/2510.09156)
