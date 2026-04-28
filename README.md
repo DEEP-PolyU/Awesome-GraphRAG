@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/deep-polyu-awesome-graphrag-badge.png)](https://mseep.ai/app/deep-polyu-awesome-graphrag)
+
 # Awesome-GraphRAG (GraphRAG Survey)
 
 <div align="center">
