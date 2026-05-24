@@ -331,6 +331,7 @@ To explore the applications of LLMs on graph tasks, we recommend the following r
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FalkorDB/GraphRAG-SDK) GraphRAG-SDK: a specialized toolkit for building GraphRAG systems.
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitali87/code-graph-rag) Code-Graph-RAG: A graph-based RAG system that analyzes multi-language codebases using Tree-sitter, builds knowledge graphs, and enables natural language querying and editing via MCP server.
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onestardao/WFGY) WFGY Problem Map: a specialized toolkit that defines 16 recurring failure modes that show up in RAG and LLM pipelines.
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmpuspus/kb-arena) KB Arena: benchmarks 9 retrieval architectures head-to-head on user-supplied docs, including a knowledge graph strategy (Neo4j, universal 5-node-type / 7-rel-type schema) and a hybrid strategy that fuses vector + graph via RRF with intent routing. Ships paired-bootstrap CIs and Wilcoxon p-values for honest GraphRAG vs vector vs hybrid comparisons.
 
 
 # 🍀 Citation
