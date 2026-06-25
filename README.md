@@ -160,6 +160,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 - (BigData 2023) **AutoKG: Efficient automated knowledge graph generation for language models** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10386454)
 - (ACL 2019) **Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs** [[Paper]](https://aclanthology.org/D19-1428.pdf)
 - (SIGIR 2019) **Answering complex questions by joining multi-document evidence with quasi knowledge graphs** [[Paper]](https://dl.acm.org/doi/10.1145/3331184.3331252)
+- (Preprints 2026) **KG4ESG: The ESG Knowledge Graph Atlas** [[Paper]](https://www.preprints.org/manuscript/202602.1970)
 
 #### GraphRAG with Existing KGs
 - (arXiv 2025) **GraphSearch: An Agentic Deep Searching Workflow for Graph Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2509.22009)
