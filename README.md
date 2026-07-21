@@ -134,6 +134,7 @@ We welcome researchers to share related work to enrich this list or provide insi
 
 ### Graphs as Knowledge Carrier
 #### Knowledge Graph Construction from Corpus
+- (arXiv 2026) **SSKG Hub: An Expert-Guided Platform for LLM-Empowered Sustainability Standards Knowledge Graphs** [[Paper]](https://arxiv.org/abs/2603.00669)
 - (AAAI 2026) **You Don’t Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures** [[Paper]](https://arxiv.org/abs/2508.06105)
 - (arXiv 2025) **AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction** [[Paper]](https://arxiv.org/abs/2510.15339)
 - (arXiv 2025) **AGRAG: Advanced Graph-based Retrieval-Augmented Generation for LLMs** [[Paper]](https://arxiv.org/abs/2511.05549)
