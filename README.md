@@ -333,6 +333,7 @@ To explore the applications of LLMs on graph tasks, we recommend the following r
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitali87/code-graph-rag) Code-Graph-RAG: A graph-based RAG system that analyzes multi-language codebases using Tree-sitter, builds knowledge graphs, and enables natural language querying and editing via MCP server.
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onestardao/WFGY) WFGY Problem Map: a specialized toolkit that defines 16 recurring failure modes that show up in RAG and LLM pipelines.
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/topoteretes/cognee) Cognee: Open-source memory engine that turns data into knowledge graphs via an ECL pipeline, combining graph and vector retrieval for AI agents.
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jules-gd-dev/autograft-lib) AutoGraft: Cost-efficient entity-resolution middleware for Neo4j GraphRAG that deduplicates extracted entities at ingestion via a 3-layer cascade (deterministic, vector, then LLM arbiter), calling the LLM for only ~0.2% of entities and cutting dedup cost ~99.8%.
 
 # 🍀 Citation
 If you find this survey helpful, please cite our paper:
